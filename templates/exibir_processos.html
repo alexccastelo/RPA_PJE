@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Processos</title>
+</head>
+
+<body>
+    <h1>Processos</h1>
+    <table border="1">
+        <tr>
+            <th>CPF</th>
+            <th>Número do Processo</th>
+            <th>Data de Distribuição</th>
+            <th>Data da Pesquisa</th>
+        </tr>
+        {% for row in dados %}
+        <tr>
+            {% for cell in row %}
+            <td>{{ cell }}</td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+
+</html>
