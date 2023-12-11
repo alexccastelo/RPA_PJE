@@ -5,6 +5,9 @@ from flask import Flask, render_template, render_template_string, request, url_f
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
+from selenium.common.exceptions import StaleElementReferenceException
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 app = Flask(__name__)
 
@@ -45,6 +48,8 @@ def consulta_processos():
         links_processos = driver.find_elements(By.XPATH, "//b[@class='btn-block']")
 
         quantidade_processos = len(links_processos)  # Contagem dos processos
+        # Lista para armazenar os resultados da pesquisa atual
+        resultados_pesquisa_atual = []
 
         with open("processos.csv", "a", newline="") as file:
             writer = csv.writer(file)
@@ -72,8 +77,17 @@ def consulta_processos():
                 driver.switch_to.window(main_window)
                 time.sleep(1)
 
+        resultado_atual = [
+            cpf,
+            numero_processo.text,
+            data_distribuicao.text,
+            data_pesquisa,
+        ]
+        resultados_pesquisa_atual.append(resultado_atual)
+
         end_time = time.time()
         total_time = end_time - start_time
+        formatted_time = "{:.2f} segundos".format(total_time)
 
         # Preparando os dados para o template
         dados = []
@@ -82,12 +96,13 @@ def consulta_processos():
             for row in csv_reader:
                 dados.append(row)
 
+        # Passar apenas os resultados da pesquisa atual para o template
         return render_template(
             "resultados.html",
             cpf=cpf,
-            quantidade_processos=quantidade_processos,
-            total_time=total_time,
-            dados=dados,
+            quantidade_processos=len(resultados_pesquisa_atual),
+            total_time=formatted_time,  # passando o tempo formatado
+            dados=resultados_pesquisa_atual,
         )
     else:
         return render_template("form.html")
