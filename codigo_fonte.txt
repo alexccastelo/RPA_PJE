@@ -1,0 +1,867 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+	
+	<title>Detalhe do Processo &middot; Justi&ccedil;a Federal da 1&ordf; Regi&atilde;o</title>
+	
+	
+	<script src="/consultapublica/a4j/g/3_3_3.Final/org/ajax4jsf/framework.pack.js" type="text/javascript"></script><script src="/consultapublica/a4j/g/3_3_3.Final/org/richfaces/ui.pack.js" type="text/javascript"></script><link class="component" href="/consultapublica/a4j/s/3_3_3.Finalorg/richfaces/renderkit/html/css/basic_classes.xcss/DATB/eAELXT5DOhSIAQ!sA18_" rel="stylesheet" type="text/css" /><link class="component" href="/consultapublica/a4j/s/3_3_3.Finalorg/richfaces/renderkit/html/css/extended_classes.xcss/DATB/eAELXT5DOhSIAQ!sA18_" media="rich-extended-skinning" rel="stylesheet" type="text/css" /><link class="component" href="/consultapublica/a4j/s/3_3_3.Final/org/richfaces/skin.xcss/DATB/eAELXT5DOhSIAQ!sA18_" rel="stylesheet" type="text/css" /><script id="org.ajax4jsf.queue_script" type="text/javascript">if (typeof A4J != 'undefined') { if (A4J.AJAX) { with (A4J.AJAX) {if (!EventQueue.getQueue('j_id125:org.richfaces.queue.global')) { EventQueue.addQueue(new EventQueue('j_id125:org.richfaces.queue.global',{'size':2,'sizeExceededBehavior':'dropNew'} ,{'ignoreDupResponses':true,'requestDelay':100} )) };if (!EventQueue.getQueue('org.richfaces.queue.global')) { EventQueue.addQueue(new EventQueue('org.richfaces.queue.global',null,null)) };}}};</script><script type="text/javascript">window.RICH_FACES_EXTENDED_SKINNING_ON=true;</script><link class="user" href="/consultapublica/stylesheet/estilos/bootstrap/bootstrap.min.css" rel="stylesheet" type="text/css" /><link class="user" href="/consultapublica/stylesheet/dropzone/dropzone.min.css" rel="stylesheet" type="text/css" /><link class="user" href="/consultapublica/stylesheet/estilos/richfaces/tema.min.css" rel="stylesheet" type="text/css" /><link class="user" href="/consultapublica/stylesheet/padrao.min.css" rel="stylesheet" type="text/css" /><link class="user" href="/consultapublica/stylesheet/autos-digitais.min.css" rel="stylesheet" type="text/css" /><script src="/consultapublica/js/modernizr.custom.min.js" type="text/javascript"></script><script src="/consultapublica/js/jquery-ui-1.8.1.min.custom.js" type="text/javascript"></script><script src="/consultapublica/js/jquery-2.1.4.min.js" type="text/javascript"></script><script src="/consultapublica/js/bootstrap/bootstrap.min.js" type="text/javascript"></script><script src="/consultapublica/js/jquery.maskedinput.min.js" type="text/javascript"></script><script src="/consultapublica/js/mousetrap/mousetrap.min.js" type="text/javascript"></script><script src="/consultapublica/js/mousetrap/plugins/global-bind/mousetrap-global-bind.min.js" type="text/javascript"></script><script src="/consultapublica/js/pje/menu.min.js" type="text/javascript"></script><script src="/consultapublica/js/global.min.js" type="text/javascript"></script><script src="/consultapublica/js/pje.js" type="text/javascript"></script><script src="/consultapublica/js/pjeOffice.js" type="text/javascript"></script><script src="/consultapublica/js/signerApplet.js" type="text/javascript"></script><link rel="apple-touch-icon" sizes="57x57" href="/consultapublica/img/favicon/apple-touch-icon-57x57.png" />
+	<link rel="apple-touch-icon" sizes="60x60" href="/consultapublica/img/favicon/apple-touch-icon-60x60.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="/consultapublica/img/favicon/apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon" sizes="76x76" href="/consultapublica/img/favicon/apple-touch-icon-76x76.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="/consultapublica/img/favicon/apple-touch-icon-114x114.png" />
+	<link rel="apple-touch-icon" sizes="120x120" href="/consultapublica/img/favicon/apple-touch-icon-120x120.png" />
+	<link rel="apple-touch-icon" sizes="144x144" href="/consultapublica/img/favicon/apple-touch-icon-144x144.png" />
+	<link rel="apple-touch-icon" sizes="152x152" href="/consultapublica/img/favicon/apple-touch-icon-152x152.png" />
+	<link rel="apple-touch-icon" sizes="180x180" href="/consultapublica/img/favicon/apple-touch-icon-180x180.png" />
+	<link rel="icon" type="image/png" href="/consultapublica/img/favicon/favicon-32x32.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="/consultapublica/img/favicon/favicon-194x194.png" sizes="194x194" />
+	<link rel="icon" type="image/png" href="/consultapublica/img/favicon/favicon-96x96.png" sizes="96x96" />
+	<link rel="icon" type="image/png" href="/consultapublica/img/favicon/android-chrome-192x192.png" sizes="192x192" />
+	<link rel="icon" type="image/png" href="/consultapublica/img/favicon/favicon-16x16.png" sizes="16x16" />
+	<link rel="manifest" href="/consultapublica/img/favicon/manifest.json" />
+	<link rel="mask-icon" href="/consultapublica/img/favicon/safari-pinned-tab.svg" color="#0078aa" />
+	<link rel="stylesheet" href="/consultapublica/stylesheet/estilos/font-awesome/v5.11.2/css/all.min.css" />
+	<link rel="stylesheet" href="/consultapublica/stylesheet/estilos/font-awesome/v5.11.2/css/v4-shims.min.css" />
+	<meta name="msapplication-TileColor" content="#0078aa" />
+	<meta name="msapplication-TileImage" content="/consultapublica/img/favicon/mstile-144x144.png" />
+	<meta name="theme-color" content="#0078AA" />
+	
+				        
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="keywords" content="processo judicial, processo, audi&ecirc;ncias, sess&atilde;o, peticionar, expedientes, magistrado, procurador, oficial de justi&ccedil;a, advogado, perito, retificar autua&ccedil;&atilde;o, OAB" />
+    <meta name="description" content="Processo Judicial Eletr&ocirc;nico - Acompanhe processos judiciais independentemente de tramita&ccedil;&otilde;es" />
+    <meta property="og:title" content="PJe - Processo Judicial Eletr&ocirc;nico" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="/consultapublica" />
+	<meta property="og:image" itemprop="image" content="/consultapublica/img/pjeMini.png" />
+	<meta property="og:site_name" content="PJe - Processo Judicial Eletr&ocirc;nico" />
+	<meta property="og:description" content="Acompanhe processos judiciais independentemente de tramita&ccedil;&otilde;es" />
+	<meta property="og:locale" content="pt_BR" />
+	
+	<meta name="Robots" content="INDEX,FOLLOW" />
+    <meta name="RESOURCE-TYPE" content="DOCUMENT" />
+    <meta name="DISTRIBUTION" content="GLOBAL" />
+    <meta name="AUTHOR" content="CNJ" />
+    <meta name="COPYRIGHT" content="Copyright (c) CNJ" />
+    <meta name="language" content="pt-br" />
+    <meta name="RATING" content="GENERAL" />
+		<script>
+		window.pjeUtils = {
+			ipDoUsuario: "186.241.56.49",
+			cpfUsuario: "",
+			localizacaoAtualCombo: "",
+			enderecoDaAplicacao: "https://pje2g.trf1.jus.br/consultapublica",
+			enderecoServidorComWebsocketMensagemAlertaHabilitado: "https://pje2gmigra.trf1.jus.br",
+			prefixoEnderecoRest: "/seam/resource/rest/pje-legacy",
+			enderecoDoContextoDaAplicacao: "/consultapublica"
+		};
+			
+	</script>
+
+	
+<button type="button" style="display:none" id="botaoModalMensagemAlerta" class="btn btn-info btn-lg" data-toggle="modal" data-target="#modalMensagemAlerta">Abrir Modal</button>
+
+
+<div id="modalMensagemAlerta" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">x</button>
+        <h4 class="modal-title">Alerta</h4>
+      </div>
+      <div class="modal-body">
+        <p id="paragrafoModalMensagemAlerta">Some text in the modal.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
+      </div>
+    </div>
+
+  </div>
+</div> 
+   		
+	</head>
+	
+	<body>
+	
+    <script type="text/javascript">
+    	jQuery('document').ready(function(){
+			new window.Menu({"Menu":[]});
+       	});
+    </script><form id="j_id27" name="j_id27" method="post" action="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam"><script id="j_id27:j_id28" type="text/javascript">//<![CDATA[
+		refreshPage=function(){A4J.AJAX.Submit('j_id27',null,{'similarityGroupingId':'j_id27:j_id28','parameters':{'j_id27:j_id28':'j_id27:j_id28'} ,'status':'_viewRoot:status'} )};
+		//]]></script><script id="j_id27:j_id29" type="text/javascript">//<![CDATA[
+		refreshTarefaTree=function(){A4J.AJAX.Submit('j_id27',null,{'similarityGroupingId':'j_id27:j_id29','oncomplete':function(request,event,data){document.getElementById('papeisUsuarioForm').submit();},'parameters':{'j_id27:j_id29':'j_id27:j_id29','ajaxSingle':'j_id27:j_id29'} } )};
+		//]]></script><script id="j_id27:j_id30" type="text/javascript">//<![CDATA[
+		defaultTarefa=function(){A4J.AJAX.Submit('j_id27',null,{'similarityGroupingId':'j_id27:j_id30','oncomplete':function(request,event,data){true},'parameters':{'j_id27:j_id30':'j_id27:j_id30'} } )};
+		//]]></script><script id="j_id27:j_id31" type="text/javascript">//<![CDATA[
+		fecharPopupAlertaCertificadoProximoDeExpirar=function(){A4J.AJAX.Submit('j_id27',null,{'similarityGroupingId':'j_id27:j_id31','oncomplete':function(request,event,data){Richfaces.hideModalPanel('popupAlertaCertificadoProximoDeExpirar');},'parameters':{'j_id27:j_id31':'j_id27:j_id31','ajaxSingle':'j_id27:j_id31'} } )};
+		//]]></script><input type="hidden" autocomplete="off" name="j_id27" value="j_id27" /><input type="hidden" autocomplete="off" name="autoScroll" value="" /><input type="hidden" autocomplete="off" name="j_id27:_link_hidden_" value="" /><input type="hidden" autocomplete="off" name="j_id27:j_idcl" value="" /><script type="text/javascript">function clear_j_id27() {
+_clearJSFFormParameters('j_id27','',['j_id27:_link_hidden_','j_id27:j_idcl']);
+}
+function clearFormHiddenParams_j_id27(){clear_j_id27();}
+function clearFormHiddenParams_j_id27(){clear_j_id27();}
+clear_j_id27();</script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" /></form>
+    
+    
+	<nav id="barraSuperiorPrincipal" class="navbar navbar-default navbar-static-top navtop">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				
+				<div class="navbar-brand">
+						<a class="logo"><img src="/consultapublica/img/pje2-branco.png" alt="Justi&ccedil;a Federal da 1&ordf; Regi&atilde;o" /></a>
+					<span class="titulo">Detalhe do Processo</span>
+				</div>
+			</div>
+		</div>
+	</nav><span id="_viewRoot:status"><span id="_viewRoot:status.start" style="display: none">
+	        <div class="ajax-loader">
+	   			<div class="rich-mpnl-mask-div-opaque rich-mpnl-mask-div"></div>
+	   			<div class="rich-mpnl-panel">
+			        <div class="rich-mp-container">
+			        	<div class="rich-mpnl-content"></div>
+			        </div>
+	   			</div>
+	   		</div></span><span id="_viewRoot:status.stop"></span></span><div id="modalStatus" style="display: none;"><input autocomplete="off" id="modalStatusOpenedState" name="modalStatusOpenedState" type="hidden" /><div class="rich-modalpanel ajax-loader" id="modalStatusContainer" style="position: absolute; display: none; z-index: 100; background-color: inherit;"><div class="rich-mpnl-mask-div-opaque rich-mpnl-mask-div" id="modalStatusDiv" style="z-index: -1;"><button class="rich-mpnl-button" id="modalStatusFirstHref"></button></div><div class="rich-mpnl-panel"><div class="rich-mp-container" id="modalStatusCDiv" style="position: absolute; left: 0px; top: 0px; z-index: 9;"><div class="rich-mpnl-shadow" id="modalStatusShadowDiv" style=" opacity:0.0; filter:alpha(opacity=0);"></div><div class="rich-mpnl-ovf-hd rich-mpnl-trim rich-mpnl-content" id="modalStatusContentDiv"><table border="0" cellpadding="0" cellspacing="0" class="rich-mp-content-table" id="modalStatusContentTable" style="height: 100%; width: 100%;"><tr style="height: 99%"><td class="rich-mpnl-body" valign="top"></td></tr></table></div><div class="rich-mpnl-resizer" id="modalStatusResizerN" style="width: 40px; height: 4px;"></div><div class="rich-mpnl-resizer" id="modalStatusResizerE" style="height: 40px; width: 4px;"></div><div class="rich-mpnl-resizer" id="modalStatusResizerS" style="width: 40px; height: 4px;"></div><div class="rich-mpnl-resizer" id="modalStatusResizerW" style="height: 40px; width: 4px;"></div><div class="rich-mpnl-resizer" id="modalStatusResizerNWU" style="width: 40px; height: 4px;"></div><div class="rich-mpnl-resizer" id="modalStatusResizerNEU" style="height: 40px; width: 4px;"></div><div class="rich-mpnl-resizer" id="modalStatusResizerNEL" style="width: 40px; height: 4px;"></div><div class="rich-mpnl-resizer" id="modalStatusResizerSEU" style="height: 40px; width: 4px;"></div><div class="rich-mpnl-resizer" id="modalStatusResizerSEL" style="width: 40px; height: 4px;"></div><div class="rich-mpnl-resizer" id="modalStatusResizerSWL" style="height: 40px; width: 4px;"></div><div class="rich-mpnl-resizer" id="modalStatusResizerSWU" style="width: 40px; height: 4px;"></div><div class="rich-mpnl-resizer" id="modalStatusResizerNWL" style="height: 40px; width: 4px;"></div></div></div><div class="rich-mpnl-mask-div rich-mpnl-mask-div-transparent" id="modalStatusCursorDiv" style="z-index: -200;"><button class="rich-mpnl-button" id="modalStatusLastHref"></button></div><script type="text/javascript">new ModalPanel('modalStatus',
+				{
+					width: -1,
+					height: -1,
+
+					minWidth: -1,
+					minHeight: -1,
+
+					resizeable: true,
+					moveable: true,
+
+					left: "auto",
+					top: "auto",
+
+					zindex: 100,onresize: '',onmove: '',onshow: '',onhide: '',onbeforeshow: '',onbeforehide: '',
+					domElementAttachment: "",				
+					keepVisualState: false,
+					showWhenRendered: false,
+					selectBehavior: "disable",
+
+					autosized: false,
+					overlapEmbedObjects: false});</script></div><script type="text/javascript"></script></div>
+	
+	<div class="modal fade modal-atalhos" tabindex="-1" role="dialog">
+		<div class="modal-dialog">
+			<div class="modal-content">
+			<div class="modal-header">
+				<a href="#" class="btn-fechar pull-right" data-dismiss="modal" aria-label="Fechar"><i class="icon-fechar"></i></a>
+				<h4 class="modal-title">Atalhos do sistema</h4>
+			</div>
+			<div class="modal-body">
+				<ul class="list-group">
+					<li class="list-group-item"><span class="badge">alt+1</span>Menu de navega&ccedil;&atilde;o
+					</li>
+					<li class="list-group-item"><span class="badge">alt+2</span>Ir para p&aacute;gina inicial
+					</li>
+					<li class="list-group-item"><span class="badge">alt+7</span>Auto-contraste
+					</li>
+					<li class="list-group-item"><span class="badge">alt+8</span>Fale conosco
+					</li>
+					<li class="list-group-item"><span class="badge">alt+9</span>Sair
+					</li>
+				</ul>
+			</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="modal fade modal-versao" tabindex="-1" role="dialog">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<a href="#" class="btn-fechar pull-right" data-dismiss="modal" aria-label="Fechar"><i class="icon-fechar"></i></a>
+					<h4 class="modal-title">Processo Judicial Eletr&ocirc;nico</h4>
+				</div>
+				<div class="modal-body">
+					<div class="media">
+						<div class="media-left media-middle"><img src="/consultapublica/img/pjeMini.png" alt="Justi&ccedil;a Federal da 1&ordf; Regi&atilde;o" class="media-object mr-10" />
+						</div>
+						<div class="media-body">
+							<span class="media-heading mb-10 text-muted btn-block">
+		<span class="transform-none">Versao</span> 2.1.10.0-SNAPSHOT_TRF1 (7bbd4c77) <span class="transform-none">- Atualizado em </span> 07/12/2023 - 21:23
+							</span>
+							
+							<p>O Pje &eacute; um sistema de tramita&ccedil;&atilde;o de processos judiciais que busca atender &agrave;s necessidades dos diversos segmentos do Poder Judici&aacute;rio brasileiro(Justi&ccedil;a Militar da Uni&atilde;o e dos Estados, Tribunais Superiores, Justi&ccedil;a do Trabalho, Justi&ccedil;a Eleitoral e Justi&ccedil;a Comum, Federal e Estadual)<br />
+							</p>
+							<p>O PJe &eacute; desenvolvido pela comunidade dos tribunais brasileiros sob a coordena&ccedil;&atilde;o do 
+								<a class="btn-link" href="http://www.cnj.jus.br/">Conselho Nacional de Justi&ccedil;a (CNJ).</a><br />
+							</p>
+							<p>Para mais ajuda sobre o sistema acesse a 
+								<a class="btn-link" href="http://www.cnj.jus.br/wiki/index.php/P%C3%A1gina_principal">Wiki do projeto.</a><br />
+							</p>
+						</div>
+					</div>
+					<div class="modal-footer text-center pb-0">
+						<small class="text-muted">Verifique sobre as vers&otilde;es do sistema em</small><br />
+						<a class="btn btn-default" href="http://www.cnj.jus.br/wiki/index.php/Vers%C3%B5es">Mais informa&ccedil;&otilde;es</a>
+					</div>				
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="modal fade modal-contato" tabindex="-1" role="dialog">
+		<div class="modal-dialog">
+			<div class="modal-content">
+			<div class="modal-header">
+				<a href="#" class="btn-fechar pull-right" data-dismiss="modal" aria-label="Fechar"><i class="icon-fechar"></i></a>
+				<h4 class="modal-title">Fale conosco</h4>
+			</div>
+			<div class="modal-body"><p style="text-align: justify;"><strong>Informa&ccedil;&otilde;es Fale Conosco</strong></p>
+<p style="text-align: justify;">Procedimentos para abrir solicita&ccedil;&atilde;o:</p>
+<p style="text-align: justify;">1) Usu&aacute;rios externos: entrar em contato pelo telefone 61-3314-1620 ou encaminhar e-mail &agrave; Central de Servi&ccedil;os de Tecnologia da Informa&ccedil;&atilde;o (csti@trf1.jus.br), com sugest&otilde;es, d&uacute;vidas ou relato de problemas t&eacute;cnicos, nesta hip&oacute;tese acompanhado de <em>PrintScreen</em> da tela de erro e descri&ccedil;&atilde;o dos procedimentos realizados, com data e hor&aacute;rio da ocorr&ecirc;ncia. Informamos que o e-mail da CSTI n&atilde;o poder&aacute; ser utilizado para fins de peticionamento, de forma que documentos recebidos nesse sentido ser&atilde;o imediatamente descartados;</p>
+<p style="text-align: justify;">2) Usu&aacute;rios internos: demandas relativas ao PJe, de qualquer natureza, devem ser encaminhadas via e-Sosti, observando-se, nos casos de problema t&eacute;cnico, a necessidade de anexar <em>PrintScreen</em> da tela de erro e descri&ccedil;&atilde;o dos procedimentos realizados, com data e hor&aacute;rio da ocorr&ecirc;ncia.</p>
+<p><!--[if gte mso 9]><xml> <w:WordDocument> <w:View>Normal</w:View> <w:Zoom>0</w:Zoom> <w:TrackMoves /> <w:TrackFormatting /> <w:HyphenationZone>21</w:HyphenationZone> <w:PunctuationKerning /> <w:ValidateAgainstSchemas /> <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid> <w:IgnoreMixedContent>false</w:IgnoreMixedContent> <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText> <w:DoNotPromoteQF /> <w:LidThemeOther>PT-BR</w:LidThemeOther> <w:LidThemeAsian>X-NONE</w:LidThemeAsian> <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript> <w:Compatibility> <w:BreakWrappedTables /> <w:SnapToGridInCell /> <w:WrapTextWithPunct /> <w:UseAsianBreakRules /> <w:DontGrowAutofit /> <w:SplitPgBreakAndParaMark /> <w:DontVertAlignCellWithSp /> <w:DontBreakConstrainedForcedTables /> <w:DontVertAlignInTxbx /> <w:Word11KerningPairs /> <w:CachedColBalance /> </w:Compatibility> <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel> <m:mathPr> <m:mathFont m:val="Cambria Math" /> <m:brkBin m:val="before" /> <m:brkBinSub m:val="&#45;-" /> <m:smallFrac m:val="off" /> <m:dispDef /> <m:lMargin m:val="0" /> <m:rMargin m:val="0" /> <m:defJc m:val="centerGroup" /> <m:wrapIndent m:val="1440" /> <m:intLim m:val="subSup" /> <m:naryLim m:val="undOvr" /> </m:mathPr></w:WordDocument> </xml><![endif]--></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+			</div>
+			</div>
+		</div>
+	</div><form id="j_id125" name="j_id125" method="post" action="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam"><span style="display:none;" id="j_id125:j_id127"><script type="text/javascript">
+A4J.AJAX.Poll('j_id125',{'similarityGroupingId':'j_id125:j_id127','pollId':'j_id125:j_id127','pollinterval':90000,'containerId':'j_id124','parameters':{'ajaxSingle':'j_id125:j_id127','j_id125:j_id127':'j_id125:j_id127'} } );
+</script></span><span style="display:none;" id="j_id125:j_id128"><script type="text/javascript">
+A4J.AJAX.StopPush('lQ7FB3DBOcpyRCi7UON78aLjYMYTrp9mJeUV3_fY/ConsultaPublica/DetalheProcessoConsultaPublica/listView.xhtml:j_id125:j_id128');
+</script></span><input type="hidden" autocomplete="off" name="j_id125" value="j_id125" /><input type="hidden" autocomplete="off" name="autoScroll" value="" /><input type="hidden" autocomplete="off" name="j_id125:_link_hidden_" value="" /><input type="hidden" autocomplete="off" name="j_id125:j_idcl" value="" /><script type="text/javascript">function clear_j_id125() {
+_clearJSFFormParameters('j_id125','',['j_id125:_link_hidden_','j_id125:j_idcl']);
+}
+function clearFormHiddenParams_j_id125(){clear_j_id125();}
+function clearFormHiddenParams_j_id125(){clear_j_id125();}
+clear_j_id125();</script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" /></form><div id="j_id129" class="principal">
+			
+			<div class="content"><div id="pageBody" class="container-fluid scroll-y">
+	<div class="conteudo"><div id="j_id132" class="faixa-superior"></div>	
+		<div class="col-xs-12 col-sm-12 pb-80"><script type="text/javascript">RichFaces.tabPanel['j_id134']={'id':'j_id134','ontabchange':''} ;</script><table border="0" cellpadding="0" cellspacing="0" class="rich-tabpanel " id="j_id134" style="width:"><tbody><tr><td align="left" class="rich-tab-bottom-line "><form id="j_id134:_form" name="j_id134:_form" method="post" style="margin:0; padding:0; display: inline;" action="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam"><!--table  border="0" cellpadding="0" cellspacing="0" style="position:relative;top:1px"--><table border="0" cellpadding="0" cellspacing="0"><tr><td><img alt="" height="1" src="/consultapublica/a4j/g/3_3_3.Finalimages/spacer.gif" style="width: 1px; ;border:0" /></td><td id="pesquisar_cell" style="height: 100%; vertical-align: bottom;" class="rich-tabhdr-cell-active"><table border="0" cellpadding="0" cellspacing="0" id="pesquisar_shifted" onclick="if (RichFaces.isTabActive('pesquisar_lbl')) return false; if (!RichFaces.onTabChange(event, 'j_id134','pesquisar')) return false;var _formName = A4J.findForm(this).id; var _paramName = 'pesquisar_server_submit'; var _params = new Object(); _params[_paramName] = _paramName; _JSFFormSubmit('pesquisar', _formName, null, _params);this.onclick = null; _clearJSFFormParameters(_formName, null, [_paramName]);" style="position:relative; top:1px;;height : 100%; "><tr><td class="rich-tabhdr-side-border"><img alt="" height="1" src="/consultapublica/a4j/g/3_3_3.Finalimages/spacer.gif" style="border:0" width="1" /></td><td class="rich-tabhdr-side-cell"><table border="0" cellpadding="0" cellspacing="0" style="height: 100%; width: 100%;"><tr><td id="pesquisar_lbl" onmouseover="RichFaces.overTab(this);" onmouseout="RichFaces.outTab(this);" class="rich-tab-header rich-tab-active    ">Dados do Processo</td></tr></table></td><td class="rich-tabhdr-side-border"><img alt="" height="1" src="/consultapublica/a4j/g/3_3_3.Finalimages/spacer.gif" style="border:0" width="1" /></td></tr></table></td><td><img alt="" height="1" src="/consultapublica/a4j/g/3_3_3.Finalimages/spacer.gif" style="width: 1px; ;border:0" /></td></tr></table><div style="display: none;"><script type="text/javascript">RichFaces.panelTabs['j_id134']=[{'name':'pesquisar','inactiveClass':'rich\x2Dtab\x2Dheader rich\x2Dtab\x2Dinactive    ','cellInactiveClass':'rich\x2Dtabhdr\x2Dcell\x2Dinactive','cellActiveClass':'rich\x2Dtabhdr\x2Dcell\x2Dactive','ontableave':'','activeClass':'rich\x2Dtab\x2Dheader rich\x2Dtab\x2Dactive    ','id':'pesquisar','ontabenter':''} ] ;</script></div><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" /></form></td></tr><tr><td id="pesquisar" style=";height:100%"><table border="0" cellpadding="10" cellspacing="0" class="rich-tabpanel-content-position" width="100%"><tr><td class="rich-tabpanel-content  " style="; "><form id="j_id135" name="j_id135" method="post" action="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam">
+			<div>
+<form id="j_id135:processoTrfViewView" name="j_id135:processoTrfViewView" method="post" action="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam" class="edit" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="j_id135:processoTrfViewView" value="j_id135:processoTrfViewView" />
+
+			<div class="rich-stglpanel " id="j_id135:processoTrfViewView:j_id138"><script type="text/javascript">SimpleTogglePanelManager.add(new SimpleTogglePanel("j_id135:processoTrfViewView:j_id138", 
+            													"true",{onexpand: '',oncollapse: ''}
+            													
+            							 ));</script><div class="rich-stglpanel-header " id="j_id135:processoTrfViewView:j_id138_header" onclick="SimpleTogglePanelManager.toggleOnClient(event,'j_id135:processoTrfViewView:j_id138');"><div class="rich-stglpanel-marker"><div class="rich-stglpnl-marker" id="j_id135:processoTrfViewView:j_id138_switch_on">&#171;</div><div class="rich-stglpnl-marker" id="j_id135:processoTrfViewView:j_id138_switch_off" style="display: none">&#187;</div></div><div id="j_id135:processoTrfViewView:divDadosProcesso">Dados do Processo <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=9hk4lqPhHEmhzFCW-RTPS9yZQMkxbFBLqYhS9M3XIU9UQjZCMFdJUzRROVZYMElVSTdET1lCVlkzMyQlQCN0PWcu" target="_blank" class="btn btn-primary">
+								Quero Conciliar</a></div></div><div style="display: none;"><input autocomplete="off" id="j_id135:processoTrfViewView:j_id138_input" name="j_id135:processoTrfViewView:j_id138" type="hidden" value="true" /></div><div class="rich-stglpanel-body " id="j_id135:processoTrfViewView:j_id138_body"><table width="100%">
+<tbody>
+<tr>
+<td class="viewColumn"><span id="j_id135:processoTrfViewView:j_id143">
+	
+    <div class="propertyView ">
+        <div class="name"><label>
+N&uacute;mero Processo</label>
+        </div>
+        
+        <div class="value col-sm-12 ">
+		<div class="col-sm-12 ">
+			0004339-40.2015.4.01.4000
+		</div>
+        </div>
+    </div></span></td>
+<td><span id="j_id135:processoTrfViewView:j_id155">
+	
+    <div class="propertyView ">
+        <div class="name"><label>
+Data da Distribui&ccedil;&atilde;o</label>
+        </div>
+        
+        <div class="value col-sm-12 ">15/04/2023
+        </div>
+    </div></span></td>
+<td><span id="j_id135:processoTrfViewView:j_id166">
+	
+    <div class="propertyView ">
+        <div class="name"><label>
+Classe Judicial</label>
+        </div>
+        
+        <div class="value col-sm-12 ">
+			RECURSO INOMINADO C&Iacute;VEL (460)
+        </div>
+    </div></span></td>
+<td><span id="j_id135:processoTrfViewView:j_id177">
+	
+    <div class="propertyView ">
+        <div class="name"><label>
+Assunto</label>
+        </div>
+        
+        <div class="value col-sm-12 ">
+		<div class="col-sm-12 ">
+    DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO (9985)  -  Servidor Público Civil (10219)  -  Regime Estatutário (10220)  -  Promoção / Ascensão (10236
+
+		</div>
+        </div>
+    </div></span></td>
+</tr>
+<tr>
+<td class="viewColumn"><span id="j_id135:processoTrfViewView:j_id190">
+	
+    <div class="propertyView ">
+        <div class="name"><label>
+Jurisdi&ccedil;&atilde;o</label>
+        </div>
+        
+        <div class="value col-sm-12 ">
+			Turmas Recursais dos Juizados Especiais Federais da SJPI
+        </div>
+    </div></span></td>
+<td><span id="j_id135:processoTrfViewView:j_id201">
+	
+    <div class="propertyView ">
+        <div class="name"><label>
+</label>
+        </div>
+        
+        <div class="value col-sm-12 ">
+		<div class="col-sm-12 "><div id="j_id135:processoTrfViewView:j_id201:j_id202:j_id208">
+				<b>&Oacute;rg&atilde;o Julgador Colegiado</b>
+				<br />
+				1&ordf; Turma Recursal da SJPI</div> 
+		</div>
+        </div>
+    </div></span></td>
+<td><span id="j_id135:processoTrfViewView:j_id214">
+	
+    <div class="propertyView ">
+        <div class="name"><label>
+&Oacute;rg&atilde;o Julgador</label>
+        </div>
+        
+        <div class="value col-sm-12 ">
+			3&ordf; Relatoria da 1&ordf; Turma Recursal da SJPI
+        </div>
+    </div></span></td>
+<td><span id="j_id135:processoTrfViewView:j_id225">
+	
+    <div class="propertyView ">
+        <div class="name"><label>
+Processo refer&ecirc;ncia</label>
+        </div>
+        
+        <div class="value col-sm-12 ">
+			0004339-40.2015.4.01.4000
+        </div>
+    </div></span></td>
+</tr>
+</tbody>
+</table>
+</div></div><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" />
+</form><div id="j_id135:j_id267" class="mt-5"></div>
+			</div><div id="j_id135:processoPartesPoloAtivoResumidoDiv"><div class="rich-panel col-sm-12" id="j_id135:j_id269"><div class="rich-panel-header " id="j_id135:j_id269_header">Polo ativo</div><div class="rich-panel-body panel" id="j_id135:j_id269_body"><span id="j_id135:processoPartesPoloAtivoResumido">
+					<div class="grid">
+							<table class="rich-table clearfix" id="j_id135:processoPartesPoloAtivoResumidoTableBinding" border="0" cellpadding="0" cellspacing="0"><colgroup span="2"></colgroup><thead class="rich-table-thead"><tr class="rich-table-subheader "><th class="rich-table-subheadercell  " scope="col" id="j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id274header"><div id="j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id274header:sortDiv"><span id="j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id275"><form id="j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id275:j_id276" name="j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id275:j_id276" method="post" action="javascript:A4J.AJAX.SubmitForm('j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id275:j_id276',{'similarityGroupingId':'j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id275:j_id276','actionUrl':'/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam','parameters':{'j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id275:j_id276':'j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id275:j_id276'} } )">Participante<input type="hidden" autocomplete="off" name="j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id275:j_id276" value="j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id275:j_id276" /><input type="hidden" autocomplete="off" name="autoScroll" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id275:j_id276:_link_hidden_" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id275:j_id276:j_idcl" value="" /><script type="text/javascript">function clear_j_id135_3AprocessoPartesPoloAtivoResumidoTableBinding_3Aj_id275_3Aj_id276() {
+_clearJSFFormParameters('j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id275:j_id276','',['j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id275:j_id276:_link_hidden_','j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id275:j_id276:j_idcl']);
+}
+function clearFormHiddenParams_j_id135_3AprocessoPartesPoloAtivoResumidoTableBinding_3Aj_id275_3Aj_id276(){clear_j_id135_3AprocessoPartesPoloAtivoResumidoTableBinding_3Aj_id275_3Aj_id276();}
+function clearFormHiddenParams_j_id135_processoPartesPoloAtivoResumidoTableBinding_j_id275_j_id276(){clear_j_id135_3AprocessoPartesPoloAtivoResumidoTableBinding_3Aj_id275_3Aj_id276();}
+clear_j_id135_3AprocessoPartesPoloAtivoResumidoTableBinding_3Aj_id275_3Aj_id276();</script><script type="text/javascript">A4J.setupForm('j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id275:j_id276');</script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" /></form></span></div></th><th class="rich-table-subheadercell  " scope="col" id="j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id310header"><div id="j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id310header:sortDiv"><span id="j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id311"><form id="j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id311:j_id312" name="j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id311:j_id312" method="post" action="javascript:A4J.AJAX.SubmitForm('j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id311:j_id312',{'similarityGroupingId':'j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id311:j_id312','actionUrl':'/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam','parameters':{'j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id311:j_id312':'j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id311:j_id312'} } )">Situa&ccedil;&atilde;o<input type="hidden" autocomplete="off" name="j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id311:j_id312" value="j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id311:j_id312" /><input type="hidden" autocomplete="off" name="autoScroll" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id311:j_id312:j_idcl" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id311:j_id312:_link_hidden_" value="" /><script type="text/javascript">function clear_j_id135_3AprocessoPartesPoloAtivoResumidoTableBinding_3Aj_id311_3Aj_id312() {
+_clearJSFFormParameters('j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id311:j_id312','',['j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id311:j_id312:j_idcl','j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id311:j_id312:_link_hidden_']);
+}
+function clearFormHiddenParams_j_id135_3AprocessoPartesPoloAtivoResumidoTableBinding_3Aj_id311_3Aj_id312(){clear_j_id135_3AprocessoPartesPoloAtivoResumidoTableBinding_3Aj_id311_3Aj_id312();}
+function clearFormHiddenParams_j_id135_processoPartesPoloAtivoResumidoTableBinding_j_id311_j_id312(){clear_j_id135_3AprocessoPartesPoloAtivoResumidoTableBinding_3Aj_id311_3Aj_id312();}
+clear_j_id135_3AprocessoPartesPoloAtivoResumidoTableBinding_3Aj_id311_3Aj_id312();</script><script type="text/javascript">A4J.setupForm('j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id311:j_id312');</script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" /></form></span></div></th></tr></thead><tfoot><tr class="rich-table-footer  "><td class="rich-table-footercell  " colspan="2" scope="colgroup">
+<form id="j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id324" name="j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id324" method="post" action="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id324" value="j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id324" />
+<div class="rich-datascr " id="j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id324:j_id325" style=" ; display: none" align="center" onclick="showLoading();;A4J.AJAX.Submit('j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id324',event,{'similarityGroupingId':'j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id324:j_id326','oncomplete':function(request,event,data){hideLoading();},'parameters':{'j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id324:j_id326':'j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id324:j_id326'} } )"><script type="text/javascript">new Richfaces.Datascroller('j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id324:j_id325', function(event){A4J.AJAX.Submit('j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id324',event,{'similarityGroupingId':'j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id324:j_id325','implicitEventsQueue':'j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id324:j_id325','parameters':{'ajaxSingle':'j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id324:j_id325','j_id135:processoPartesPoloAtivoResumidoTableBinding:j_id324:j_id325':event.memo.page} ,'ignoreDupResponses':true} ); return false;});</script></div><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" />
+</form></td></tr></tfoot><tbody id="j_id135:processoPartesPoloAtivoResumidoTableBinding:tb"><tr class="rich-table-row rich-table-firstrow "><td class="rich-table-cell " id="j_id135:processoPartesPoloAtivoResumidoTableBinding:0:j_id274"><span id="j_id135:processoPartesPoloAtivoResumidoTableBinding:0:j_id284">
+		<div class="col-sm-12 "><span class="text-bold">DANIEL SOARES LOPES - CPF: 017.062.273-88 (RECORRENTE)</span>
+					<div class="col-sm-12 ">
+					</div>
+	
+	<style type="text/css">
+		.none { list-style-type: none; }
+	</style>
+
+		<ul class="none">
+			<li>
+				<small class="text-muted">
+					<span title="Defensoria">
+					</span>
+				</small>
+			</li>
+		</ul>
+			
+		</div></span></td><td class="rich-table-cell " id="j_id135:processoPartesPoloAtivoResumidoTableBinding:0:j_id310"><span id="j_id135:processoPartesPoloAtivoResumidoTableBinding:0:j_id320">
+		<div class="col-sm-12">Ativo
+		</div></span></td></tr><tr class="rich-table-row "><td class="rich-table-cell " id="j_id135:processoPartesPoloAtivoResumidoTableBinding:1:j_id274"><span id="j_id135:processoPartesPoloAtivoResumidoTableBinding:1:j_id284">
+		<div class="col-sm-12 ">&#160;&#160;&#160;&#160;<span class="">JOSE ALVES FONSECA NETO - OAB PI6439-A - CPF: 393.940.773-91 (ADVOGADO)</span>
+					<div class="col-sm-12 ">
+					</div>
+	
+	<style type="text/css">
+		.none { list-style-type: none; }
+	</style>
+
+		<ul class="none">
+			<li>
+				<small class="text-muted">
+					<span title="Defensoria">
+					</span>
+				</small>
+			</li>
+		</ul>
+			
+		</div></span></td><td class="rich-table-cell " id="j_id135:processoPartesPoloAtivoResumidoTableBinding:1:j_id310"><span id="j_id135:processoPartesPoloAtivoResumidoTableBinding:1:j_id320">
+		<div class="col-sm-12">Ativo
+		</div></span></td></tr></tbody></table><span class="pull-right text-muted">2 resultados encontrados</span>
+					</div></span></div></div></div><div id="j_id135:processoPartesPoloPassivoResumidoDiv"><div class="rich-panel col-sm-12" id="j_id135:j_id334"><div class="rich-panel-header " id="j_id135:j_id334_header">Polo Passivo</div><div class="rich-panel-body panel" id="j_id135:j_id334_body"><span id="j_id135:processoPartesPoloPassivoResumido">
+					<div class="grid">
+							<table class="rich-table clearfix" id="j_id135:processoPartesPoloPassivoResumidoTableBinding" border="0" cellpadding="0" cellspacing="0"><colgroup span="2"></colgroup><thead class="rich-table-thead"><tr class="rich-table-subheader "><th class="rich-table-subheadercell  " scope="col" id="j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id339header"><div id="j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id339header:sortDiv"><span id="j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id340"><form id="j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id340:j_id341" name="j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id340:j_id341" method="post" action="javascript:A4J.AJAX.SubmitForm('j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id340:j_id341',{'similarityGroupingId':'j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id340:j_id341','actionUrl':'/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam','parameters':{'j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id340:j_id341':'j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id340:j_id341'} } )">Participante<input type="hidden" autocomplete="off" name="j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id340:j_id341" value="j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id340:j_id341" /><input type="hidden" autocomplete="off" name="autoScroll" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id340:j_id341:j_idcl" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id340:j_id341:_link_hidden_" value="" /><script type="text/javascript">function clear_j_id135_3AprocessoPartesPoloPassivoResumidoTableBinding_3Aj_id340_3Aj_id341() {
+_clearJSFFormParameters('j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id340:j_id341','',['j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id340:j_id341:j_idcl','j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id340:j_id341:_link_hidden_']);
+}
+function clearFormHiddenParams_j_id135_3AprocessoPartesPoloPassivoResumidoTableBinding_3Aj_id340_3Aj_id341(){clear_j_id135_3AprocessoPartesPoloPassivoResumidoTableBinding_3Aj_id340_3Aj_id341();}
+function clearFormHiddenParams_j_id135_processoPartesPoloPassivoResumidoTableBinding_j_id340_j_id341(){clear_j_id135_3AprocessoPartesPoloPassivoResumidoTableBinding_3Aj_id340_3Aj_id341();}
+clear_j_id135_3AprocessoPartesPoloPassivoResumidoTableBinding_3Aj_id340_3Aj_id341();</script><script type="text/javascript">A4J.setupForm('j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id340:j_id341');</script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" /></form></span></div></th><th class="rich-table-subheadercell  " scope="col" id="j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id375header"><div id="j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id375header:sortDiv"><span id="j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id376"><form id="j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id376:j_id377" name="j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id376:j_id377" method="post" action="javascript:A4J.AJAX.SubmitForm('j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id376:j_id377',{'similarityGroupingId':'j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id376:j_id377','actionUrl':'/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam','parameters':{'j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id376:j_id377':'j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id376:j_id377'} } )">Situa&ccedil;&atilde;o<input type="hidden" autocomplete="off" name="j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id376:j_id377" value="j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id376:j_id377" /><input type="hidden" autocomplete="off" name="autoScroll" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id376:j_id377:j_idcl" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id376:j_id377:_link_hidden_" value="" /><script type="text/javascript">function clear_j_id135_3AprocessoPartesPoloPassivoResumidoTableBinding_3Aj_id376_3Aj_id377() {
+_clearJSFFormParameters('j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id376:j_id377','',['j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id376:j_id377:j_idcl','j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id376:j_id377:_link_hidden_']);
+}
+function clearFormHiddenParams_j_id135_3AprocessoPartesPoloPassivoResumidoTableBinding_3Aj_id376_3Aj_id377(){clear_j_id135_3AprocessoPartesPoloPassivoResumidoTableBinding_3Aj_id376_3Aj_id377();}
+function clearFormHiddenParams_j_id135_processoPartesPoloPassivoResumidoTableBinding_j_id376_j_id377(){clear_j_id135_3AprocessoPartesPoloPassivoResumidoTableBinding_3Aj_id376_3Aj_id377();}
+clear_j_id135_3AprocessoPartesPoloPassivoResumidoTableBinding_3Aj_id376_3Aj_id377();</script><script type="text/javascript">A4J.setupForm('j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id376:j_id377');</script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" /></form></span></div></th></tr></thead><tfoot><tr class="rich-table-footer  "><td class="rich-table-footercell  " colspan="2" scope="colgroup">
+<form id="j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id389" name="j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id389" method="post" action="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id389" value="j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id389" />
+<div class="rich-datascr " id="j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id389:j_id390" style=" ; display: none" align="center" onclick="showLoading();;A4J.AJAX.Submit('j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id389',event,{'similarityGroupingId':'j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id389:j_id391','oncomplete':function(request,event,data){hideLoading();},'parameters':{'j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id389:j_id391':'j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id389:j_id391'} } )"><script type="text/javascript">new Richfaces.Datascroller('j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id389:j_id390', function(event){A4J.AJAX.Submit('j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id389',event,{'similarityGroupingId':'j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id389:j_id390','implicitEventsQueue':'j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id389:j_id390','parameters':{'ajaxSingle':'j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id389:j_id390','j_id135:processoPartesPoloPassivoResumidoTableBinding:j_id389:j_id390':event.memo.page} ,'ignoreDupResponses':true} ); return false;});</script></div><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" />
+</form></td></tr></tfoot><tbody id="j_id135:processoPartesPoloPassivoResumidoTableBinding:tb"><tr class="rich-table-row rich-table-firstrow "><td class="rich-table-cell " id="j_id135:processoPartesPoloPassivoResumidoTableBinding:0:j_id339"><span id="j_id135:processoPartesPoloPassivoResumidoTableBinding:0:j_id349">
+		<div class="col-sm-12 "><span class="text-bold">INSTITUTO NACIONAL DO SEGURO SOCIAL - CNPJ: 29.979.036/0012-01 (RECORRIDO)</span>
+					<div class="col-sm-12 ">
+					</div>
+	
+	<style type="text/css">
+		.none { list-style-type: none; }
+	</style>
+
+		<ul class="tree">
+			<li>
+				<small class="text-muted"><img src="" class="fa fa-users mr-10" />
+					<span title="Procuradoria">Procuradoria-Regional Federal da 1&ordf; Regi&atilde;o
+					</span>
+				</small>
+			</li>
+		</ul>
+			
+		</div></span></td><td class="rich-table-cell " id="j_id135:processoPartesPoloPassivoResumidoTableBinding:0:j_id375"><span id="j_id135:processoPartesPoloPassivoResumidoTableBinding:0:j_id385">
+		<div class="col-sm-12">Ativo
+		</div></span></td></tr></tbody></table><span class="pull-right text-muted">1 resultados encontrados</span>
+					</div></span></div></div></div><div id="j_id135:processoParteOutrosInteressadosResumidoDiv"><div class="rich-panel col-sm-12" id="j_id135:j_id399"><div class="rich-panel-header " id="j_id135:j_id399_header">Outros interessados</div><div class="rich-panel-body panel" id="j_id135:j_id399_body"><span id="j_id135:processoParteOutrosInteressadosResumido">
+					<div class="grid">
+							<table class="rich-table clearfix" id="j_id135:processoParteOutrosInteressadosResumidoTableBinding" border="0" cellpadding="0" cellspacing="0"><colgroup span="2"></colgroup><thead class="rich-table-thead"><tr class="rich-table-subheader "><th class="rich-table-subheadercell  " scope="col" id="j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id404header"><div id="j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id404header:sortDiv"><span id="j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id405"><form id="j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id405:j_id406" name="j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id405:j_id406" method="post" action="javascript:A4J.AJAX.SubmitForm('j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id405:j_id406',{'similarityGroupingId':'j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id405:j_id406','actionUrl':'/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam','parameters':{'j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id405:j_id406':'j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id405:j_id406'} } )">Participante<input type="hidden" autocomplete="off" name="j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id405:j_id406" value="j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id405:j_id406" /><input type="hidden" autocomplete="off" name="autoScroll" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id405:j_id406:j_idcl" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id405:j_id406:_link_hidden_" value="" /><script type="text/javascript">function clear_j_id135_3AprocessoParteOutrosInteressadosResumidoTableBinding_3Aj_id405_3Aj_id406() {
+_clearJSFFormParameters('j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id405:j_id406','',['j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id405:j_id406:j_idcl','j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id405:j_id406:_link_hidden_']);
+}
+function clearFormHiddenParams_j_id135_3AprocessoParteOutrosInteressadosResumidoTableBinding_3Aj_id405_3Aj_id406(){clear_j_id135_3AprocessoParteOutrosInteressadosResumidoTableBinding_3Aj_id405_3Aj_id406();}
+function clearFormHiddenParams_j_id135_processoParteOutrosInteressadosResumidoTableBinding_j_id405_j_id406(){clear_j_id135_3AprocessoParteOutrosInteressadosResumidoTableBinding_3Aj_id405_3Aj_id406();}
+clear_j_id135_3AprocessoParteOutrosInteressadosResumidoTableBinding_3Aj_id405_3Aj_id406();</script><script type="text/javascript">A4J.setupForm('j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id405:j_id406');</script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" /></form></span></div></th><th class="rich-table-subheadercell  " scope="col" id="j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id440header"><div id="j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id440header:sortDiv"><span id="j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id441"><form id="j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id441:j_id442" name="j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id441:j_id442" method="post" action="javascript:A4J.AJAX.SubmitForm('j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id441:j_id442',{'similarityGroupingId':'j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id441:j_id442','actionUrl':'/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam','parameters':{'j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id441:j_id442':'j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id441:j_id442'} } )">Situa&ccedil;&atilde;o<input type="hidden" autocomplete="off" name="j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id441:j_id442" value="j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id441:j_id442" /><input type="hidden" autocomplete="off" name="autoScroll" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id441:j_id442:j_idcl" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id441:j_id442:_link_hidden_" value="" /><script type="text/javascript">function clear_j_id135_3AprocessoParteOutrosInteressadosResumidoTableBinding_3Aj_id441_3Aj_id442() {
+_clearJSFFormParameters('j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id441:j_id442','',['j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id441:j_id442:j_idcl','j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id441:j_id442:_link_hidden_']);
+}
+function clearFormHiddenParams_j_id135_3AprocessoParteOutrosInteressadosResumidoTableBinding_3Aj_id441_3Aj_id442(){clear_j_id135_3AprocessoParteOutrosInteressadosResumidoTableBinding_3Aj_id441_3Aj_id442();}
+function clearFormHiddenParams_j_id135_processoParteOutrosInteressadosResumidoTableBinding_j_id441_j_id442(){clear_j_id135_3AprocessoParteOutrosInteressadosResumidoTableBinding_3Aj_id441_3Aj_id442();}
+clear_j_id135_3AprocessoParteOutrosInteressadosResumidoTableBinding_3Aj_id441_3Aj_id442();</script><script type="text/javascript">A4J.setupForm('j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id441:j_id442');</script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" /></form></span></div></th></tr></thead><tfoot><tr class="rich-table-footer  "><td class="rich-table-footercell  " colspan="2" scope="colgroup">
+<form id="j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id454" name="j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id454" method="post" action="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id454" value="j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id454" />
+<div class="rich-datascr " id="j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id454:j_id455" style=" ; display: none" align="center" onclick="showLoading();;A4J.AJAX.Submit('j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id454',event,{'similarityGroupingId':'j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id454:j_id456','oncomplete':function(request,event,data){hideLoading();},'parameters':{'j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id454:j_id456':'j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id454:j_id456'} } )"><script type="text/javascript">new Richfaces.Datascroller('j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id454:j_id455', function(event){A4J.AJAX.Submit('j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id454',event,{'similarityGroupingId':'j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id454:j_id455','implicitEventsQueue':'j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id454:j_id455','parameters':{'j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id454:j_id455':event.memo.page,'ajaxSingle':'j_id135:processoParteOutrosInteressadosResumidoTableBinding:j_id454:j_id455'} ,'ignoreDupResponses':true} ); return false;});</script></div><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" />
+</form></td></tr></tfoot><tbody id="j_id135:processoParteOutrosInteressadosResumidoTableBinding:tb"></tbody></table><span class="pull-right text-muted">0 resultados encontrados</span>
+					</div></span></div></div></div><div id="j_id135:processoEventoSearchForm" class="col-sm-3"></div><div class="rich-panel col-sm-12" id="j_id135:processoEventoPanel"><div class="rich-panel-header " id="j_id135:processoEventoPanel_header">Movimenta&ccedil;&otilde;es do Processo</div><div class="rich-panel-body panel" id="j_id135:processoEventoPanel_body">
+				<script type="text/javascript">
+					if ($('processoEventoMessages')) {
+						setTimeout("if ($('processoEventoMessages')) $('processoEventoMessages').style.display='none'", 15000);
+					}
+				</script><table class="rich-table " id="j_id135:processoEvento" border="0" cellpadding="0" cellspacing="0"><colgroup span="2"></colgroup><thead class="rich-table-thead"><tr class="rich-table-subheader "><th class="rich-table-subheadercell  " scope="col" colspan="1" id="j_id135:processoEvento:j_id485header"><div id="j_id135:processoEvento:j_id485header:sortDiv"><form id="j_id135:processoEvento:j_id487" name="j_id135:processoEvento:j_id487" method="post" class="text-left" action="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam"><span class="ml-5 mr-5 text-left">Movimento</span><input type="hidden" autocomplete="off" name="j_id135:processoEvento:j_id487" value="j_id135:processoEvento:j_id487" /><input type="hidden" autocomplete="off" name="autoScroll" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoEvento:j_id487:_link_hidden_" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoEvento:j_id487:j_idcl" value="" /><script type="text/javascript">function clear_j_id135_3AprocessoEvento_3Aj_id487() {
+_clearJSFFormParameters('j_id135:processoEvento:j_id487','',['j_id135:processoEvento:j_id487:_link_hidden_','j_id135:processoEvento:j_id487:j_idcl']);
+}
+function clearFormHiddenParams_j_id135_3AprocessoEvento_3Aj_id487(){clear_j_id135_3AprocessoEvento_3Aj_id487();}
+function clearFormHiddenParams_j_id135_processoEvento_j_id487(){clear_j_id135_3AprocessoEvento_3Aj_id487();}
+clear_j_id135_3AprocessoEvento_3Aj_id487();</script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" /></form></div></th><th class="rich-table-subheadercell  " scope="col" colspan="1" id="j_id135:processoEvento:j_id513header"><div id="j_id135:processoEvento:j_id513header:sortDiv"><form id="j_id135:processoEvento:j_id515" name="j_id135:processoEvento:j_id515" method="post" class="text-left" action="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam"><span class="ml-5 mr-5 text-left">Documento</span><input type="hidden" autocomplete="off" name="j_id135:processoEvento:j_id515" value="j_id135:processoEvento:j_id515" /><input type="hidden" autocomplete="off" name="autoScroll" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoEvento:j_id515:j_idcl" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoEvento:j_id515:_link_hidden_" value="" /><script type="text/javascript">function clear_j_id135_3AprocessoEvento_3Aj_id515() {
+_clearJSFFormParameters('j_id135:processoEvento:j_id515','',['j_id135:processoEvento:j_id515:j_idcl','j_id135:processoEvento:j_id515:_link_hidden_']);
+}
+function clearFormHiddenParams_j_id135_3AprocessoEvento_3Aj_id515(){clear_j_id135_3AprocessoEvento_3Aj_id515();}
+function clearFormHiddenParams_j_id135_processoEvento_j_id515(){clear_j_id135_3AprocessoEvento_3Aj_id515();}
+clear_j_id135_3AprocessoEvento_3Aj_id515();</script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" /></form></div></th></tr></thead><tbody id="j_id135:processoEvento:tb"><tr class="rich-table-row rich-table-firstrow "><td class="rich-table-cell text-break text-left " id="j_id135:processoEvento:0:j_id485" colspan="1" rowspan="1">
+		<div class="col-sm-12" title="">	
+					<div class="col-sm-12 "><span id="j_id135:processoEvento:0:j_id501">15/04/2023 19:35:49 - Redistribu&iacute;do por sorteio em raz&atilde;o de extin&ccedil;&atilde;o de unidade judici&aacute;ria</span>
+					</div><span class=" text-left"></span>
+		</div></td><td class="rich-table-cell " id="j_id135:processoEvento:0:j_id513" colspan="1" rowspan="1"></td></tr><tr class="rich-table-row "><td class="rich-table-cell text-break text-left " id="j_id135:processoEvento:1:j_id485" colspan="1" rowspan="1">
+		<div class="col-sm-12" title="">	
+					<div class="col-sm-12 "><span id="j_id135:processoEvento:1:j_id501">09/09/2022 13:56:36 - Remetidos os Autos (por julgamento definitivo do recurso) para Ju&iacute;zo de origem</span>
+					</div><span class=" text-left"></span>
+		</div></td><td class="rich-table-cell " id="j_id135:processoEvento:1:j_id513" colspan="1" rowspan="1"></td></tr><tr class="rich-table-row "><td class="rich-table-cell text-break text-left " id="j_id135:processoEvento:2:j_id485" colspan="1" rowspan="1">
+		<div class="col-sm-12" title="">	
+					<div class="col-sm-12 "><span id="j_id135:processoEvento:2:j_id501">09/09/2022 12:59:41 - Juntada de Informa&ccedil;&atilde;o</span>
+					</div><span class=" text-left"></span>
+		</div></td><td class="rich-table-cell " id="j_id135:processoEvento:2:j_id513" colspan="1" rowspan="1"></td></tr><tr class="rich-table-row "><td class="rich-table-cell text-break text-left " id="j_id135:processoEvento:3:j_id485" colspan="1" rowspan="1">
+		<div class="col-sm-12" title="">	
+					<div class="col-sm-12 "><span id="j_id135:processoEvento:3:j_id501">09/09/2022 12:59:41 - Expedi&ccedil;&atilde;o de Certid&atilde;o de Tr&acirc;nsito em Julgado.</span>
+					</div><span class=" text-left"></span>
+		</div></td><td class="rich-table-cell " id="j_id135:processoEvento:3:j_id513" colspan="1" rowspan="1"></td></tr><tr class="rich-table-row "><td class="rich-table-cell text-break text-left " id="j_id135:processoEvento:4:j_id485" colspan="1" rowspan="1">
+		<div class="col-sm-12" title="">	
+					<div class="col-sm-12 "><span id="j_id135:processoEvento:4:j_id501">07/09/2022 02:18:18 - Decorrido prazo de DANIEL SOARES LOPES em 06/09/2022 23:59.</span>
+					</div><span class=" text-left"></span>
+		</div></td><td class="rich-table-cell " id="j_id135:processoEvento:4:j_id513" colspan="1" rowspan="1"></td></tr><tr class="rich-table-row "><td class="rich-table-cell text-break text-left " id="j_id135:processoEvento:5:j_id485" colspan="1" rowspan="1">
+		<div class="col-sm-12" title="">	
+					<div class="col-sm-12 "><span id="j_id135:processoEvento:5:j_id501">07/09/2022 00:38:33 - Decorrido prazo de INSTITUTO NACIONAL DO SEGURO SOCIAL em 06/09/2022 23:59.</span>
+					</div><span class=" text-left"></span>
+		</div></td><td class="rich-table-cell " id="j_id135:processoEvento:5:j_id513" colspan="1" rowspan="1"></td></tr><tr class="rich-table-row "><td class="rich-table-cell text-break text-left " id="j_id135:processoEvento:6:j_id485" colspan="1" rowspan="1">
+		<div class="col-sm-12" title="">	
+					<div class="col-sm-12 "><span id="j_id135:processoEvento:6:j_id501">16/08/2022 00:46:29 - Decorrido prazo de INSTITUTO NACIONAL DO SEGURO SOCIAL em 15/08/2022 23:59.</span>
+					</div><span class=" text-left"></span>
+		</div></td><td class="rich-table-cell " id="j_id135:processoEvento:6:j_id513" colspan="1" rowspan="1"></td></tr><tr class="rich-table-row "><td class="rich-table-cell text-break text-left " id="j_id135:processoEvento:7:j_id485" colspan="1" rowspan="1">
+		<div class="col-sm-12" title="">	
+					<div class="col-sm-12 "><span id="j_id135:processoEvento:7:j_id501">06/08/2022 00:49:53 - Decorrido prazo de DANIEL SOARES LOPES em 05/08/2022 23:59.</span>
+					</div><span class=" text-left"></span>
+		</div></td><td class="rich-table-cell " id="j_id135:processoEvento:7:j_id513" colspan="1" rowspan="1"></td></tr><tr class="rich-table-row "><td class="rich-table-cell text-break text-left " id="j_id135:processoEvento:8:j_id485" colspan="1" rowspan="1">
+		<div class="col-sm-12" title="">	
+					<div class="col-sm-12 "><span id="j_id135:processoEvento:8:j_id501">05/08/2022 15:50:17 - Expedida/certificada a intima&ccedil;&atilde;o eletr&ocirc;nica</span>
+					</div><span class=" text-left"></span>
+		</div></td><td class="rich-table-cell " id="j_id135:processoEvento:8:j_id513" colspan="1" rowspan="1"></td></tr><tr class="rich-table-row "><td class="rich-table-cell text-break text-left " id="j_id135:processoEvento:9:j_id485" colspan="1" rowspan="1">
+		<div class="col-sm-12" title="">	
+					<div class="col-sm-12 "><span id="j_id135:processoEvento:9:j_id501">05/08/2022 15:50:17 - Expedi&ccedil;&atilde;o de Outros documentos.</span>
+					</div><span class=" text-left"></span>
+		</div></td><td class="rich-table-cell " id="j_id135:processoEvento:9:j_id513" colspan="1" rowspan="1"></td></tr><tr class="rich-table-row "><td class="rich-table-cell text-break text-left " id="j_id135:processoEvento:10:j_id485" colspan="1" rowspan="1">
+		<div class="col-sm-12" title="">	
+					<div class="col-sm-12 "><span id="j_id135:processoEvento:10:j_id501">24/06/2022 00:35:04 - Publicado Intima&ccedil;&atilde;o - Usu&aacute;rio do Sistema em 24/06/2022.</span>
+					</div><span class=" text-left"></span>
+		</div></td><td class="rich-table-cell " id="j_id135:processoEvento:10:j_id513" colspan="1" rowspan="1"></td></tr><tr class="rich-table-row "><td class="rich-table-cell text-break text-left " id="j_id135:processoEvento:11:j_id485" colspan="1" rowspan="1">
+		<div class="col-sm-12" title="">	
+					<div class="col-sm-12 "><span id="j_id135:processoEvento:11:j_id501">24/06/2022 00:35:04 - Disponibilizado no DJ Eletr&ocirc;nico em 24/06/2022</span>
+					</div><span class=" text-left"></span>
+		</div></td><td class="rich-table-cell " id="j_id135:processoEvento:11:j_id513" colspan="1" rowspan="1"></td></tr><tr class="rich-table-row "><td class="rich-table-cell text-break text-left " id="j_id135:processoEvento:12:j_id485" colspan="1" rowspan="1">
+		<div class="col-sm-12" title="">	
+					<div class="col-sm-12 "><span id="j_id135:processoEvento:12:j_id501">22/06/2022 10:08:07 - Expedi&ccedil;&atilde;o de Outros documentos.</span>
+					</div><span class=" text-left"></span>
+		</div></td><td class="rich-table-cell " id="j_id135:processoEvento:12:j_id513" colspan="1" rowspan="1"></td></tr><tr class="rich-table-row "><td class="rich-table-cell text-break text-left " id="j_id135:processoEvento:13:j_id485" colspan="1" rowspan="1">
+		<div class="col-sm-12" title="">	
+					<div class="col-sm-12 "><span id="j_id135:processoEvento:13:j_id501">22/06/2022 10:08:07 - Expedi&ccedil;&atilde;o de Outros documentos.</span>
+					</div><span class=" text-left"></span>
+		</div></td><td class="rich-table-cell " id="j_id135:processoEvento:13:j_id513" colspan="1" rowspan="1"></td></tr></tbody></table><span class="pull-right text-muted">14 resultados encontrados</span></div></div><div id="j_id135:idEditarModeloDocumento"><div id="j_id135:processoDocumentoGridTabSearchForm" class="col-sm-3"></div><div class="rich-panel col-sm-12" id="j_id135:processoDocumentoGridTabPanel"><div class="rich-panel-header " id="j_id135:processoDocumentoGridTabPanel_header">Documentos juntados ao processo</div><div class="rich-panel-body panel" id="j_id135:processoDocumentoGridTabPanel_body">
+				<script type="text/javascript">
+					if ($('processoDocumentoGridTabMessages')) {
+						setTimeout("if ($('processoDocumentoGridTabMessages')) $('processoDocumentoGridTabMessages').style.display='none'", 15000);
+					}
+				</script><table class="rich-table " id="j_id135:processoDocumentoGridTab" border="0" cellpadding="0" cellspacing="0"><colgroup span="2"></colgroup><thead class="rich-table-thead"><tr class="rich-table-subheader "><th class="rich-table-subheadercell  " scope="col" colspan="1" id="j_id135:processoDocumentoGridTab:j_id574header"><div id="j_id135:processoDocumentoGridTab:j_id574header:sortDiv"><form id="j_id135:processoDocumentoGridTab:j_id576" name="j_id135:processoDocumentoGridTab:j_id576" method="post" class="text-left" action="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam"><a href="#" id="j_id135:processoDocumentoGridTab:j_id576:j_id577" name="j_id135:processoDocumentoGridTab:j_id576:j_id577" onclick="A4J.AJAX.Submit('j_id135:processoDocumentoGridTab:j_id576',event,{'similarityGroupingId':'j_id135:processoDocumentoGridTab:j_id576:j_id577','containerId':'j_id135:j_id553','parameters':{'j_id135:processoDocumentoGridTab:j_id576:j_id577':'j_id135:processoDocumentoGridTab:j_id576:j_id577','ajaxSingle':'j_id135:processoDocumentoGridTab:j_id576:j_id577'} ,'status':'_viewRoot:status'} );return false;" title="Ordem crescente"><img src="/consultapublica/img/grid/arrow-up.png" class="" /></a><span class="ml-5 mr-5 text-left">Documento</span><a href="#" id="j_id135:processoDocumentoGridTab:j_id576:j_id580" name="j_id135:processoDocumentoGridTab:j_id576:j_id580" onclick="A4J.AJAX.Submit('j_id135:processoDocumentoGridTab:j_id576',event,{'similarityGroupingId':'j_id135:processoDocumentoGridTab:j_id576:j_id580','containerId':'j_id135:j_id553','parameters':{'j_id135:processoDocumentoGridTab:j_id576:j_id580':'j_id135:processoDocumentoGridTab:j_id576:j_id580','ajaxSingle':'j_id135:processoDocumentoGridTab:j_id576:j_id580'} ,'status':'_viewRoot:status'} );return false;" title="Ordem decrescente"><img src="/consultapublica/img/grid/arrow-down.png" class="" /></a><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:j_id576" value="j_id135:processoDocumentoGridTab:j_id576" /><input type="hidden" autocomplete="off" name="autoScroll" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:j_id576:j_idcl" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:j_id576:_link_hidden_" value="" /><script type="text/javascript">function clear_j_id135_3AprocessoDocumentoGridTab_3Aj_id576() {
+_clearJSFFormParameters('j_id135:processoDocumentoGridTab:j_id576','',['j_id135:processoDocumentoGridTab:j_id576:j_idcl','j_id135:processoDocumentoGridTab:j_id576:_link_hidden_']);
+}
+function clearFormHiddenParams_j_id135_3AprocessoDocumentoGridTab_3Aj_id576(){clear_j_id135_3AprocessoDocumentoGridTab_3Aj_id576();}
+function clearFormHiddenParams_j_id135_processoDocumentoGridTab_j_id576(){clear_j_id135_3AprocessoDocumentoGridTab_3Aj_id576();}
+clear_j_id135_3AprocessoDocumentoGridTab_3Aj_id576();</script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" /></form></div></th><th class="rich-table-subheadercell  " scope="col" colspan="1" id="j_id135:processoDocumentoGridTab:j_id610header"><div id="j_id135:processoDocumentoGridTab:j_id610header:sortDiv"><form id="j_id135:processoDocumentoGridTab:j_id612" name="j_id135:processoDocumentoGridTab:j_id612" method="post" class="text-left" action="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam"><a href="#" id="j_id135:processoDocumentoGridTab:j_id612:j_id613" name="j_id135:processoDocumentoGridTab:j_id612:j_id613" onclick="A4J.AJAX.Submit('j_id135:processoDocumentoGridTab:j_id612',event,{'similarityGroupingId':'j_id135:processoDocumentoGridTab:j_id612:j_id613','containerId':'j_id135:j_id553','parameters':{'j_id135:processoDocumentoGridTab:j_id612:j_id613':'j_id135:processoDocumentoGridTab:j_id612:j_id613','ajaxSingle':'j_id135:processoDocumentoGridTab:j_id612:j_id613'} ,'status':'_viewRoot:status'} );return false;" title="Ordem crescente"><img src="/consultapublica/img/grid/arrow-up.png" class="" /></a><span class="ml-5 mr-5 text-left">Certid&atilde;o</span><a href="#" id="j_id135:processoDocumentoGridTab:j_id612:j_id616" name="j_id135:processoDocumentoGridTab:j_id612:j_id616" onclick="A4J.AJAX.Submit('j_id135:processoDocumentoGridTab:j_id612',event,{'similarityGroupingId':'j_id135:processoDocumentoGridTab:j_id612:j_id616','containerId':'j_id135:j_id553','parameters':{'j_id135:processoDocumentoGridTab:j_id612:j_id616':'j_id135:processoDocumentoGridTab:j_id612:j_id616','ajaxSingle':'j_id135:processoDocumentoGridTab:j_id612:j_id616'} ,'status':'_viewRoot:status'} );return false;" title="Ordem decrescente"><img src="/consultapublica/img/grid/arrow-down.png" class="" /></a><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:j_id612" value="j_id135:processoDocumentoGridTab:j_id612" /><input type="hidden" autocomplete="off" name="autoScroll" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:j_id612:_link_hidden_" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:j_id612:j_idcl" value="" /><script type="text/javascript">function clear_j_id135_3AprocessoDocumentoGridTab_3Aj_id612() {
+_clearJSFFormParameters('j_id135:processoDocumentoGridTab:j_id612','',['j_id135:processoDocumentoGridTab:j_id612:_link_hidden_','j_id135:processoDocumentoGridTab:j_id612:j_idcl']);
+}
+function clearFormHiddenParams_j_id135_3AprocessoDocumentoGridTab_3Aj_id612(){clear_j_id135_3AprocessoDocumentoGridTab_3Aj_id612();}
+function clearFormHiddenParams_j_id135_processoDocumentoGridTab_j_id612(){clear_j_id135_3AprocessoDocumentoGridTab_3Aj_id612();}
+clear_j_id135_3AprocessoDocumentoGridTab_3Aj_id612();</script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" /></form></div></th></tr></thead><tbody id="j_id135:processoDocumentoGridTab:tb"><tr class="rich-table-row rich-table-firstrow "><td class="rich-table-cell " id="j_id135:processoDocumentoGridTab:0:j_id574" colspan="1" rowspan="1"><span id="j_id135:processoDocumentoGridTab:0:j_id588"><a class="btn btn-default btn-sm" href="#" id="j_id135:processoDocumentoGridTab:0:j_id588:idView" name="j_id135:processoDocumentoGridTab:0:j_id588:idView" onclick="openPopUp('259420061popUpDocumento', 'https://pje2g.trf1.jus.br:443/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=98e9b0670366c477325f968fb786901a7d473dde6fcbd24e8ed8d89e1abe41ffd976bfb445bc88ee6f78afe9fa3df75dd0071bfd434037cc&amp;idProcessoDoc=259420061');;A4J.AJAX.Submit('j_id135',event,{'similarityGroupingId':'j_id135:processoDocumentoGridTab:0:j_id588:idView','containerId':'j_id135:j_id553','parameters':{'j_id135:processoDocumentoGridTab:0:j_id588:idView':'j_id135:processoDocumentoGridTab:0:j_id588:idView'} } );return false;" title="Visualizar">
+		
+		<i class="fa fa-external-link"></i>
+		<span class="sr-only">Visualizar documentos</span>09/09/2022 12:59:40 - Certid&atilde;o de tr&acirc;nsito em julgado (Certid&atilde;o de tr&acirc;nsito em julgado)</a></span></td><td class="rich-table-cell " id="j_id135:processoDocumentoGridTab:0:j_id610" colspan="1" rowspan="1"><span id="j_id135:processoDocumentoGridTab:0:j_id624">
+		
+		<script type="text/javascript">
+			function abrirPopUp(){
+				openPopUp('comprovante', '');
+			}
+			function abrirPopUpPeticao(){
+				openPopUp('comprovantePeticaoInicial', '');
+			}
+		</script><form id="j_id135:processoDocumentoGridTab:0:j_id624:j_id626" name="j_id135:processoDocumentoGridTab:0:j_id624:j_id626" method="post" action="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam">
+			<div align="center"><div id="j_id135:processoDocumentoGridTab:0:j_id624:j_id626:linksSemCertidao"><a class="btn btn-default btn-sm" href="#" id="j_id135:processoDocumentoGridTab:0:j_id624:j_id626:j_id628" name="j_id135:processoDocumentoGridTab:0:j_id624:j_id626:j_id628" onclick="openPopUp('259420061popUpComprovante', '/consultapublica/Processo/reportReciboPDF.seam?idBin=253345001&amp;idProcessoDoc=259420061&amp;idProcessoTrf=2035144');;A4J.AJAX.Submit('j_id135:processoDocumentoGridTab:0:j_id624:j_id626',event,{'similarityGroupingId':'j_id135:processoDocumentoGridTab:0:j_id624:j_id626:j_id628','containerId':'j_id135:j_id553','parameters':{'j_id135:processoDocumentoGridTab:0:j_id624:j_id626:j_id628':'j_id135:processoDocumentoGridTab:0:j_id624:j_id626:j_id628','ajaxSingle':'j_id135:processoDocumentoGridTab:0:j_id624:j_id626:j_id628'} } );return false;" target="259420061popUpComprovante" title="Visualizar comprovante de protocolo">
+						<i class="fa fa-external-link"></i>  
+						<span class="sr-only">Visualizar documentos</span></a></div>
+			</div><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:0:j_id624:j_id626" value="j_id135:processoDocumentoGridTab:0:j_id624:j_id626" /><input type="hidden" autocomplete="off" name="autoScroll" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:0:j_id624:j_id626:_link_hidden_" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:0:j_id624:j_id626:j_idcl" value="" /><script type="text/javascript">function clear_j_id135_3AprocessoDocumentoGridTab_3A0_3Aj_id624_3Aj_id626() {
+_clearJSFFormParameters('j_id135:processoDocumentoGridTab:0:j_id624:j_id626','',['j_id135:processoDocumentoGridTab:0:j_id624:j_id626:_link_hidden_','j_id135:processoDocumentoGridTab:0:j_id624:j_id626:j_idcl']);
+}
+function clearFormHiddenParams_j_id135_3AprocessoDocumentoGridTab_3A0_3Aj_id624_3Aj_id626(){clear_j_id135_3AprocessoDocumentoGridTab_3A0_3Aj_id624_3Aj_id626();}
+function clearFormHiddenParams_j_id135_processoDocumentoGridTab_0_j_id624_j_id626(){clear_j_id135_3AprocessoDocumentoGridTab_3A0_3Aj_id624_3Aj_id626();}
+clear_j_id135_3AprocessoDocumentoGridTab_3A0_3Aj_id624_3Aj_id626();</script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" /></form></span></td></tr><tr class="rich-table-row "><td class="rich-table-cell " id="j_id135:processoDocumentoGridTab:1:j_id574" colspan="1" rowspan="1"><span id="j_id135:processoDocumentoGridTab:1:j_id588"><a href="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?idBin=223208028&amp;numeroDocumento=b6d2c68ed40e29a4b94b11fffe0dec52e966a7e9&amp;idProcessoDocumento=228540109&amp;actionMethod=ConsultaPublica%2FDetalheProcessoConsultaPublica%2FlistView.xhtml%3AprocessoDocumentoBinHome.setDownloadInstance%28row%29" id="j_id135:processoDocumentoGridTab:1:j_id588:j_id601" target="idPdfAto ordinat&oacute;rio (ATO ORDINATORIO - CITAR INSS)" onclick="openPopUp('idPdfAto ordinat&oacute;rio (ATO ORDINATORIO - CITAR INSS)', 'about:blank')" title=" (109,53 Kb)" class="btn btn-default btn-sm">
+		
+		<i class="fa fa-file-pdf-o"></i>11/03/2015 08:27:33 - ATO ORDINATORIO - CITAR INSS (Ato ordinat&oacute;rio)</a></span></td><td class="rich-table-cell " id="j_id135:processoDocumentoGridTab:1:j_id610" colspan="1" rowspan="1"><span id="j_id135:processoDocumentoGridTab:1:j_id624">
+		
+		<script type="text/javascript">
+			function abrirPopUp(){
+				openPopUp('comprovante', '');
+			}
+			function abrirPopUpPeticao(){
+				openPopUp('comprovantePeticaoInicial', '');
+			}
+		</script><form id="j_id135:processoDocumentoGridTab:1:j_id624:j_id626" name="j_id135:processoDocumentoGridTab:1:j_id624:j_id626" method="post" action="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam">
+			<div align="center"><div id="j_id135:processoDocumentoGridTab:1:j_id624:j_id626:linksSemCertidao"><a class="btn btn-default btn-sm" href="#" id="j_id135:processoDocumentoGridTab:1:j_id624:j_id626:j_id628" name="j_id135:processoDocumentoGridTab:1:j_id624:j_id626:j_id628" onclick="openPopUp('228540109popUpComprovante', '/consultapublica/Processo/reportReciboPDF.seam?idBin=223208028&amp;idProcessoDoc=228540109&amp;idProcessoTrf=2035144');;A4J.AJAX.Submit('j_id135:processoDocumentoGridTab:1:j_id624:j_id626',event,{'similarityGroupingId':'j_id135:processoDocumentoGridTab:1:j_id624:j_id626:j_id628','containerId':'j_id135:j_id553','parameters':{'j_id135:processoDocumentoGridTab:1:j_id624:j_id626:j_id628':'j_id135:processoDocumentoGridTab:1:j_id624:j_id626:j_id628','ajaxSingle':'j_id135:processoDocumentoGridTab:1:j_id624:j_id626:j_id628'} } );return false;" target="228540109popUpComprovante" title="Visualizar comprovante de protocolo">
+						<i class="fa fa-external-link"></i>  
+						<span class="sr-only">Visualizar documentos</span></a></div>
+			</div><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:1:j_id624:j_id626" value="j_id135:processoDocumentoGridTab:1:j_id624:j_id626" /><input type="hidden" autocomplete="off" name="autoScroll" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:1:j_id624:j_id626:_link_hidden_" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:1:j_id624:j_id626:j_idcl" value="" /><script type="text/javascript">function clear_j_id135_3AprocessoDocumentoGridTab_3A1_3Aj_id624_3Aj_id626() {
+_clearJSFFormParameters('j_id135:processoDocumentoGridTab:1:j_id624:j_id626','',['j_id135:processoDocumentoGridTab:1:j_id624:j_id626:_link_hidden_','j_id135:processoDocumentoGridTab:1:j_id624:j_id626:j_idcl']);
+}
+function clearFormHiddenParams_j_id135_3AprocessoDocumentoGridTab_3A1_3Aj_id624_3Aj_id626(){clear_j_id135_3AprocessoDocumentoGridTab_3A1_3Aj_id624_3Aj_id626();}
+function clearFormHiddenParams_j_id135_processoDocumentoGridTab_1_j_id624_j_id626(){clear_j_id135_3AprocessoDocumentoGridTab_3A1_3Aj_id624_3Aj_id626();}
+clear_j_id135_3AprocessoDocumentoGridTab_3A1_3Aj_id624_3Aj_id626();</script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" /></form></span></td></tr><tr class="rich-table-row "><td class="rich-table-cell " id="j_id135:processoDocumentoGridTab:2:j_id574" colspan="1" rowspan="1"><span id="j_id135:processoDocumentoGridTab:2:j_id588"><a href="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?idBin=223208018&amp;numeroDocumento=950bc68727a81eb45b6c0b42b9ed3a5a48d22a4d&amp;idProcessoDocumento=228540099&amp;actionMethod=ConsultaPublica%2FDetalheProcessoConsultaPublica%2FlistView.xhtml%3AprocessoDocumentoBinHome.setDownloadInstance%28row%29" id="j_id135:processoDocumentoGridTab:2:j_id588:j_id601" target="idPdfDespacho" onclick="openPopUp('idPdfDespacho', 'about:blank')" title=" (146,93 Kb)" class="btn btn-default btn-sm">
+		
+		<i class="fa fa-file-pdf-o"></i>11/09/2015 09:43:00 - Despacho (Despacho)</a></span></td><td class="rich-table-cell " id="j_id135:processoDocumentoGridTab:2:j_id610" colspan="1" rowspan="1"><span id="j_id135:processoDocumentoGridTab:2:j_id624">
+		
+		<script type="text/javascript">
+			function abrirPopUp(){
+				openPopUp('comprovante', '');
+			}
+			function abrirPopUpPeticao(){
+				openPopUp('comprovantePeticaoInicial', '');
+			}
+		</script><form id="j_id135:processoDocumentoGridTab:2:j_id624:j_id626" name="j_id135:processoDocumentoGridTab:2:j_id624:j_id626" method="post" action="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam">
+			<div align="center"><div id="j_id135:processoDocumentoGridTab:2:j_id624:j_id626:linksSemCertidao"><a class="btn btn-default btn-sm" href="#" id="j_id135:processoDocumentoGridTab:2:j_id624:j_id626:j_id628" name="j_id135:processoDocumentoGridTab:2:j_id624:j_id626:j_id628" onclick="openPopUp('228540099popUpComprovante', '/consultapublica/Processo/reportReciboPDF.seam?idBin=223208018&amp;idProcessoDoc=228540099&amp;idProcessoTrf=2035144');;A4J.AJAX.Submit('j_id135:processoDocumentoGridTab:2:j_id624:j_id626',event,{'similarityGroupingId':'j_id135:processoDocumentoGridTab:2:j_id624:j_id626:j_id628','containerId':'j_id135:j_id553','parameters':{'j_id135:processoDocumentoGridTab:2:j_id624:j_id626:j_id628':'j_id135:processoDocumentoGridTab:2:j_id624:j_id626:j_id628','ajaxSingle':'j_id135:processoDocumentoGridTab:2:j_id624:j_id626:j_id628'} } );return false;" target="228540099popUpComprovante" title="Visualizar comprovante de protocolo">
+						<i class="fa fa-external-link"></i>  
+						<span class="sr-only">Visualizar documentos</span></a></div>
+			</div><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:2:j_id624:j_id626" value="j_id135:processoDocumentoGridTab:2:j_id624:j_id626" /><input type="hidden" autocomplete="off" name="autoScroll" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:2:j_id624:j_id626:_link_hidden_" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:2:j_id624:j_id626:j_idcl" value="" /><script type="text/javascript">function clear_j_id135_3AprocessoDocumentoGridTab_3A2_3Aj_id624_3Aj_id626() {
+_clearJSFFormParameters('j_id135:processoDocumentoGridTab:2:j_id624:j_id626','',['j_id135:processoDocumentoGridTab:2:j_id624:j_id626:_link_hidden_','j_id135:processoDocumentoGridTab:2:j_id624:j_id626:j_idcl']);
+}
+function clearFormHiddenParams_j_id135_3AprocessoDocumentoGridTab_3A2_3Aj_id624_3Aj_id626(){clear_j_id135_3AprocessoDocumentoGridTab_3A2_3Aj_id624_3Aj_id626();}
+function clearFormHiddenParams_j_id135_processoDocumentoGridTab_2_j_id624_j_id626(){clear_j_id135_3AprocessoDocumentoGridTab_3A2_3Aj_id624_3Aj_id626();}
+clear_j_id135_3AprocessoDocumentoGridTab_3A2_3Aj_id624_3Aj_id626();</script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" /></form></span></td></tr><tr class="rich-table-row "><td class="rich-table-cell " id="j_id135:processoDocumentoGridTab:3:j_id574" colspan="1" rowspan="1"><span id="j_id135:processoDocumentoGridTab:3:j_id588"><a href="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?idBin=223208003&amp;numeroDocumento=e8787ec7439eb368f4181787eef530f7854fbfe4&amp;idProcessoDocumento=228540084&amp;actionMethod=ConsultaPublica%2FDetalheProcessoConsultaPublica%2FlistView.xhtml%3AprocessoDocumentoBinHome.setDownloadInstance%28row%29" id="j_id135:processoDocumentoGridTab:3:j_id588:j_id601" target="idPdfAto ordinat&oacute;rio (INTIMAR PFE)" onclick="openPopUp('idPdfAto ordinat&oacute;rio (INTIMAR PFE)', 'about:blank')" title=" (130,07 Kb)" class="btn btn-default btn-sm">
+		
+		<i class="fa fa-file-pdf-o"></i>19/04/2016 11:34:46 - INTIMAR PFE (Ato ordinat&oacute;rio)</a></span></td><td class="rich-table-cell " id="j_id135:processoDocumentoGridTab:3:j_id610" colspan="1" rowspan="1"><span id="j_id135:processoDocumentoGridTab:3:j_id624">
+		
+		<script type="text/javascript">
+			function abrirPopUp(){
+				openPopUp('comprovante', '');
+			}
+			function abrirPopUpPeticao(){
+				openPopUp('comprovantePeticaoInicial', '');
+			}
+		</script><form id="j_id135:processoDocumentoGridTab:3:j_id624:j_id626" name="j_id135:processoDocumentoGridTab:3:j_id624:j_id626" method="post" action="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam">
+			<div align="center"><div id="j_id135:processoDocumentoGridTab:3:j_id624:j_id626:linksSemCertidao"><a class="btn btn-default btn-sm" href="#" id="j_id135:processoDocumentoGridTab:3:j_id624:j_id626:j_id628" name="j_id135:processoDocumentoGridTab:3:j_id624:j_id626:j_id628" onclick="openPopUp('228540084popUpComprovante', '/consultapublica/Processo/reportReciboPDF.seam?idBin=223208003&amp;idProcessoDoc=228540084&amp;idProcessoTrf=2035144');;A4J.AJAX.Submit('j_id135:processoDocumentoGridTab:3:j_id624:j_id626',event,{'similarityGroupingId':'j_id135:processoDocumentoGridTab:3:j_id624:j_id626:j_id628','containerId':'j_id135:j_id553','parameters':{'j_id135:processoDocumentoGridTab:3:j_id624:j_id626:j_id628':'j_id135:processoDocumentoGridTab:3:j_id624:j_id626:j_id628','ajaxSingle':'j_id135:processoDocumentoGridTab:3:j_id624:j_id626:j_id628'} } );return false;" target="228540084popUpComprovante" title="Visualizar comprovante de protocolo">
+						<i class="fa fa-external-link"></i>  
+						<span class="sr-only">Visualizar documentos</span></a></div>
+			</div><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:3:j_id624:j_id626" value="j_id135:processoDocumentoGridTab:3:j_id624:j_id626" /><input type="hidden" autocomplete="off" name="autoScroll" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:3:j_id624:j_id626:_link_hidden_" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:3:j_id624:j_id626:j_idcl" value="" /><script type="text/javascript">function clear_j_id135_3AprocessoDocumentoGridTab_3A3_3Aj_id624_3Aj_id626() {
+_clearJSFFormParameters('j_id135:processoDocumentoGridTab:3:j_id624:j_id626','',['j_id135:processoDocumentoGridTab:3:j_id624:j_id626:_link_hidden_','j_id135:processoDocumentoGridTab:3:j_id624:j_id626:j_idcl']);
+}
+function clearFormHiddenParams_j_id135_3AprocessoDocumentoGridTab_3A3_3Aj_id624_3Aj_id626(){clear_j_id135_3AprocessoDocumentoGridTab_3A3_3Aj_id624_3Aj_id626();}
+function clearFormHiddenParams_j_id135_processoDocumentoGridTab_3_j_id624_j_id626(){clear_j_id135_3AprocessoDocumentoGridTab_3A3_3Aj_id624_3Aj_id626();}
+clear_j_id135_3AprocessoDocumentoGridTab_3A3_3Aj_id624_3Aj_id626();</script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" /></form></span></td></tr><tr class="rich-table-row "><td class="rich-table-cell " id="j_id135:processoDocumentoGridTab:4:j_id574" colspan="1" rowspan="1"><span id="j_id135:processoDocumentoGridTab:4:j_id588"><a href="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?idBin=223207989&amp;numeroDocumento=f2f5209b7e53b8dd47d29b0572cbc0e762dfd3d9&amp;idProcessoDocumento=228540070&amp;actionMethod=ConsultaPublica%2FDetalheProcessoConsultaPublica%2FlistView.xhtml%3AprocessoDocumentoBinHome.setDownloadInstance%28row%29" id="j_id135:processoDocumentoGridTab:4:j_id588:j_id601" target="idPdfDespacho (DESPACHO INSPE&Ccedil;&Atilde;O 2017)" onclick="openPopUp('idPdfDespacho (DESPACHO INSPE&Ccedil;&Atilde;O 2017)', 'about:blank')" title=" (202,82 Kb)" class="btn btn-default btn-sm">
+		
+		<i class="fa fa-file-pdf-o"></i>28/03/2017 11:24:12 - DESPACHO INSPE&Ccedil;&Atilde;O 2017 (Despacho)</a></span></td><td class="rich-table-cell " id="j_id135:processoDocumentoGridTab:4:j_id610" colspan="1" rowspan="1"><span id="j_id135:processoDocumentoGridTab:4:j_id624">
+		
+		<script type="text/javascript">
+			function abrirPopUp(){
+				openPopUp('comprovante', '');
+			}
+			function abrirPopUpPeticao(){
+				openPopUp('comprovantePeticaoInicial', '');
+			}
+		</script><form id="j_id135:processoDocumentoGridTab:4:j_id624:j_id626" name="j_id135:processoDocumentoGridTab:4:j_id624:j_id626" method="post" action="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam">
+			<div align="center"><div id="j_id135:processoDocumentoGridTab:4:j_id624:j_id626:linksSemCertidao"><a class="btn btn-default btn-sm" href="#" id="j_id135:processoDocumentoGridTab:4:j_id624:j_id626:j_id628" name="j_id135:processoDocumentoGridTab:4:j_id624:j_id626:j_id628" onclick="openPopUp('228540070popUpComprovante', '/consultapublica/Processo/reportReciboPDF.seam?idBin=223207989&amp;idProcessoDoc=228540070&amp;idProcessoTrf=2035144');;A4J.AJAX.Submit('j_id135:processoDocumentoGridTab:4:j_id624:j_id626',event,{'similarityGroupingId':'j_id135:processoDocumentoGridTab:4:j_id624:j_id626:j_id628','containerId':'j_id135:j_id553','parameters':{'ajaxSingle':'j_id135:processoDocumentoGridTab:4:j_id624:j_id626:j_id628','j_id135:processoDocumentoGridTab:4:j_id624:j_id626:j_id628':'j_id135:processoDocumentoGridTab:4:j_id624:j_id626:j_id628'} } );return false;" target="228540070popUpComprovante" title="Visualizar comprovante de protocolo">
+						<i class="fa fa-external-link"></i>  
+						<span class="sr-only">Visualizar documentos</span></a></div>
+			</div><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:4:j_id624:j_id626" value="j_id135:processoDocumentoGridTab:4:j_id624:j_id626" /><input type="hidden" autocomplete="off" name="autoScroll" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:4:j_id624:j_id626:j_idcl" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:4:j_id624:j_id626:_link_hidden_" value="" /><script type="text/javascript">function clear_j_id135_3AprocessoDocumentoGridTab_3A4_3Aj_id624_3Aj_id626() {
+_clearJSFFormParameters('j_id135:processoDocumentoGridTab:4:j_id624:j_id626','',['j_id135:processoDocumentoGridTab:4:j_id624:j_id626:j_idcl','j_id135:processoDocumentoGridTab:4:j_id624:j_id626:_link_hidden_']);
+}
+function clearFormHiddenParams_j_id135_3AprocessoDocumentoGridTab_3A4_3Aj_id624_3Aj_id626(){clear_j_id135_3AprocessoDocumentoGridTab_3A4_3Aj_id624_3Aj_id626();}
+function clearFormHiddenParams_j_id135_processoDocumentoGridTab_4_j_id624_j_id626(){clear_j_id135_3AprocessoDocumentoGridTab_3A4_3Aj_id624_3Aj_id626();}
+clear_j_id135_3AprocessoDocumentoGridTab_3A4_3Aj_id624_3Aj_id626();</script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" /></form></span></td></tr><tr class="rich-table-row "><td class="rich-table-cell " id="j_id135:processoDocumentoGridTab:5:j_id574" colspan="1" rowspan="1"><span id="j_id135:processoDocumentoGridTab:5:j_id588"><a href="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?idBin=223207968&amp;numeroDocumento=89fa8e768d65090314c6525abd02a67bf0742f28&amp;idProcessoDocumento=228540049&amp;actionMethod=ConsultaPublica%2FDetalheProcessoConsultaPublica%2FlistView.xhtml%3AprocessoDocumentoBinHome.setDownloadInstance%28row%29" id="j_id135:processoDocumentoGridTab:5:j_id588:j_id601" target="idPdfAto ordinat&oacute;rio (INTIMAR AUTOR RECURSO + REMESSA TURMA RECURSAL)" onclick="openPopUp('idPdfAto ordinat&oacute;rio (INTIMAR AUTOR RECURSO + REMESSA TURMA RECURSAL)', 'about:blank')" title=" (194,47 Kb)" class="btn btn-default btn-sm">
+		
+		<i class="fa fa-file-pdf-o"></i>22/01/2018 10:54:16 - INTIMAR AUTOR RECURSO + REMESSA TURMA RECURSAL (Ato ordinat&oacute;rio)</a></span></td><td class="rich-table-cell " id="j_id135:processoDocumentoGridTab:5:j_id610" colspan="1" rowspan="1"><span id="j_id135:processoDocumentoGridTab:5:j_id624">
+		
+		<script type="text/javascript">
+			function abrirPopUp(){
+				openPopUp('comprovante', '');
+			}
+			function abrirPopUpPeticao(){
+				openPopUp('comprovantePeticaoInicial', '');
+			}
+		</script><form id="j_id135:processoDocumentoGridTab:5:j_id624:j_id626" name="j_id135:processoDocumentoGridTab:5:j_id624:j_id626" method="post" action="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam">
+			<div align="center"><div id="j_id135:processoDocumentoGridTab:5:j_id624:j_id626:linksSemCertidao"><a class="btn btn-default btn-sm" href="#" id="j_id135:processoDocumentoGridTab:5:j_id624:j_id626:j_id628" name="j_id135:processoDocumentoGridTab:5:j_id624:j_id626:j_id628" onclick="openPopUp('228540049popUpComprovante', '/consultapublica/Processo/reportReciboPDF.seam?idBin=223207968&amp;idProcessoDoc=228540049&amp;idProcessoTrf=2035144');;A4J.AJAX.Submit('j_id135:processoDocumentoGridTab:5:j_id624:j_id626',event,{'similarityGroupingId':'j_id135:processoDocumentoGridTab:5:j_id624:j_id626:j_id628','containerId':'j_id135:j_id553','parameters':{'j_id135:processoDocumentoGridTab:5:j_id624:j_id626:j_id628':'j_id135:processoDocumentoGridTab:5:j_id624:j_id626:j_id628','ajaxSingle':'j_id135:processoDocumentoGridTab:5:j_id624:j_id626:j_id628'} } );return false;" target="228540049popUpComprovante" title="Visualizar comprovante de protocolo">
+						<i class="fa fa-external-link"></i>  
+						<span class="sr-only">Visualizar documentos</span></a></div>
+			</div><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:5:j_id624:j_id626" value="j_id135:processoDocumentoGridTab:5:j_id624:j_id626" /><input type="hidden" autocomplete="off" name="autoScroll" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:5:j_id624:j_id626:j_idcl" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:5:j_id624:j_id626:_link_hidden_" value="" /><script type="text/javascript">function clear_j_id135_3AprocessoDocumentoGridTab_3A5_3Aj_id624_3Aj_id626() {
+_clearJSFFormParameters('j_id135:processoDocumentoGridTab:5:j_id624:j_id626','',['j_id135:processoDocumentoGridTab:5:j_id624:j_id626:j_idcl','j_id135:processoDocumentoGridTab:5:j_id624:j_id626:_link_hidden_']);
+}
+function clearFormHiddenParams_j_id135_3AprocessoDocumentoGridTab_3A5_3Aj_id624_3Aj_id626(){clear_j_id135_3AprocessoDocumentoGridTab_3A5_3Aj_id624_3Aj_id626();}
+function clearFormHiddenParams_j_id135_processoDocumentoGridTab_5_j_id624_j_id626(){clear_j_id135_3AprocessoDocumentoGridTab_3A5_3Aj_id624_3Aj_id626();}
+clear_j_id135_3AprocessoDocumentoGridTab_3A5_3Aj_id624_3Aj_id626();</script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" /></form></span></td></tr><tr class="rich-table-row "><td class="rich-table-cell " id="j_id135:processoDocumentoGridTab:6:j_id574" colspan="1" rowspan="1"><span id="j_id135:processoDocumentoGridTab:6:j_id588"><a href="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?idBin=223207966&amp;numeroDocumento=e4b684e10f0b383c9aee20e57871eefe25e898ab&amp;idProcessoDocumento=228540047&amp;actionMethod=ConsultaPublica%2FDetalheProcessoConsultaPublica%2FlistView.xhtml%3AprocessoDocumentoBinHome.setDownloadInstance%28row%29" id="j_id135:processoDocumentoGridTab:6:j_id588:j_id601" target="idPdfDespacho (DESPACHO INSPE&Ccedil;&Atilde;O 2018)" onclick="openPopUp('idPdfDespacho (DESPACHO INSPE&Ccedil;&Atilde;O 2018)', 'about:blank')" title=" (286,27 Kb)" class="btn btn-default btn-sm">
+		
+		<i class="fa fa-file-pdf-o"></i>10/05/2018 18:15:42 - DESPACHO INSPE&Ccedil;&Atilde;O 2018 (Despacho)</a></span></td><td class="rich-table-cell " id="j_id135:processoDocumentoGridTab:6:j_id610" colspan="1" rowspan="1"><span id="j_id135:processoDocumentoGridTab:6:j_id624">
+		
+		<script type="text/javascript">
+			function abrirPopUp(){
+				openPopUp('comprovante', '');
+			}
+			function abrirPopUpPeticao(){
+				openPopUp('comprovantePeticaoInicial', '');
+			}
+		</script><form id="j_id135:processoDocumentoGridTab:6:j_id624:j_id626" name="j_id135:processoDocumentoGridTab:6:j_id624:j_id626" method="post" action="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam">
+			<div align="center"><div id="j_id135:processoDocumentoGridTab:6:j_id624:j_id626:linksSemCertidao"><a class="btn btn-default btn-sm" href="#" id="j_id135:processoDocumentoGridTab:6:j_id624:j_id626:j_id628" name="j_id135:processoDocumentoGridTab:6:j_id624:j_id626:j_id628" onclick="openPopUp('228540047popUpComprovante', '/consultapublica/Processo/reportReciboPDF.seam?idBin=223207966&amp;idProcessoDoc=228540047&amp;idProcessoTrf=2035144');;A4J.AJAX.Submit('j_id135:processoDocumentoGridTab:6:j_id624:j_id626',event,{'similarityGroupingId':'j_id135:processoDocumentoGridTab:6:j_id624:j_id626:j_id628','containerId':'j_id135:j_id553','parameters':{'j_id135:processoDocumentoGridTab:6:j_id624:j_id626:j_id628':'j_id135:processoDocumentoGridTab:6:j_id624:j_id626:j_id628','ajaxSingle':'j_id135:processoDocumentoGridTab:6:j_id624:j_id626:j_id628'} } );return false;" target="228540047popUpComprovante" title="Visualizar comprovante de protocolo">
+						<i class="fa fa-external-link"></i>  
+						<span class="sr-only">Visualizar documentos</span></a></div>
+			</div><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:6:j_id624:j_id626" value="j_id135:processoDocumentoGridTab:6:j_id624:j_id626" /><input type="hidden" autocomplete="off" name="autoScroll" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:6:j_id624:j_id626:_link_hidden_" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:6:j_id624:j_id626:j_idcl" value="" /><script type="text/javascript">function clear_j_id135_3AprocessoDocumentoGridTab_3A6_3Aj_id624_3Aj_id626() {
+_clearJSFFormParameters('j_id135:processoDocumentoGridTab:6:j_id624:j_id626','',['j_id135:processoDocumentoGridTab:6:j_id624:j_id626:_link_hidden_','j_id135:processoDocumentoGridTab:6:j_id624:j_id626:j_idcl']);
+}
+function clearFormHiddenParams_j_id135_3AprocessoDocumentoGridTab_3A6_3Aj_id624_3Aj_id626(){clear_j_id135_3AprocessoDocumentoGridTab_3A6_3Aj_id624_3Aj_id626();}
+function clearFormHiddenParams_j_id135_processoDocumentoGridTab_6_j_id624_j_id626(){clear_j_id135_3AprocessoDocumentoGridTab_3A6_3Aj_id624_3Aj_id626();}
+clear_j_id135_3AprocessoDocumentoGridTab_3A6_3Aj_id624_3Aj_id626();</script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" /></form></span></td></tr><tr class="rich-table-row "><td class="rich-table-cell " id="j_id135:processoDocumentoGridTab:7:j_id574" colspan="1" rowspan="1"><span id="j_id135:processoDocumentoGridTab:7:j_id588"><a href="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?idBin=223207964&amp;numeroDocumento=0ec8cd5e691e2bc8296d0ca3810a94eaea8ec451&amp;idProcessoDocumento=228540045&amp;actionMethod=ConsultaPublica%2FDetalheProcessoConsultaPublica%2FlistView.xhtml%3AprocessoDocumentoBinHome.setDownloadInstance%28row%29" id="j_id135:processoDocumentoGridTab:7:j_id588:j_id601" target="idPdfAto ordinat&oacute;rio (INTIMAR AUTOR)" onclick="openPopUp('idPdfAto ordinat&oacute;rio (INTIMAR AUTOR)', 'about:blank')" title=" (196,61 Kb)" class="btn btn-default btn-sm">
+		
+		<i class="fa fa-file-pdf-o"></i>14/06/2018 14:01:46 - INTIMAR AUTOR (Ato ordinat&oacute;rio)</a></span></td><td class="rich-table-cell " id="j_id135:processoDocumentoGridTab:7:j_id610" colspan="1" rowspan="1"><span id="j_id135:processoDocumentoGridTab:7:j_id624">
+		
+		<script type="text/javascript">
+			function abrirPopUp(){
+				openPopUp('comprovante', '');
+			}
+			function abrirPopUpPeticao(){
+				openPopUp('comprovantePeticaoInicial', '');
+			}
+		</script><form id="j_id135:processoDocumentoGridTab:7:j_id624:j_id626" name="j_id135:processoDocumentoGridTab:7:j_id624:j_id626" method="post" action="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam">
+			<div align="center"><div id="j_id135:processoDocumentoGridTab:7:j_id624:j_id626:linksSemCertidao"><a class="btn btn-default btn-sm" href="#" id="j_id135:processoDocumentoGridTab:7:j_id624:j_id626:j_id628" name="j_id135:processoDocumentoGridTab:7:j_id624:j_id626:j_id628" onclick="openPopUp('228540045popUpComprovante', '/consultapublica/Processo/reportReciboPDF.seam?idBin=223207964&amp;idProcessoDoc=228540045&amp;idProcessoTrf=2035144');;A4J.AJAX.Submit('j_id135:processoDocumentoGridTab:7:j_id624:j_id626',event,{'similarityGroupingId':'j_id135:processoDocumentoGridTab:7:j_id624:j_id626:j_id628','containerId':'j_id135:j_id553','parameters':{'j_id135:processoDocumentoGridTab:7:j_id624:j_id626:j_id628':'j_id135:processoDocumentoGridTab:7:j_id624:j_id626:j_id628','ajaxSingle':'j_id135:processoDocumentoGridTab:7:j_id624:j_id626:j_id628'} } );return false;" target="228540045popUpComprovante" title="Visualizar comprovante de protocolo">
+						<i class="fa fa-external-link"></i>  
+						<span class="sr-only">Visualizar documentos</span></a></div>
+			</div><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:7:j_id624:j_id626" value="j_id135:processoDocumentoGridTab:7:j_id624:j_id626" /><input type="hidden" autocomplete="off" name="autoScroll" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:7:j_id624:j_id626:_link_hidden_" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:7:j_id624:j_id626:j_idcl" value="" /><script type="text/javascript">function clear_j_id135_3AprocessoDocumentoGridTab_3A7_3Aj_id624_3Aj_id626() {
+_clearJSFFormParameters('j_id135:processoDocumentoGridTab:7:j_id624:j_id626','',['j_id135:processoDocumentoGridTab:7:j_id624:j_id626:_link_hidden_','j_id135:processoDocumentoGridTab:7:j_id624:j_id626:j_idcl']);
+}
+function clearFormHiddenParams_j_id135_3AprocessoDocumentoGridTab_3A7_3Aj_id624_3Aj_id626(){clear_j_id135_3AprocessoDocumentoGridTab_3A7_3Aj_id624_3Aj_id626();}
+function clearFormHiddenParams_j_id135_processoDocumentoGridTab_7_j_id624_j_id626(){clear_j_id135_3AprocessoDocumentoGridTab_3A7_3Aj_id624_3Aj_id626();}
+clear_j_id135_3AprocessoDocumentoGridTab_3A7_3Aj_id624_3Aj_id626();</script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" /></form></span></td></tr><tr class="rich-table-row "><td class="rich-table-cell " id="j_id135:processoDocumentoGridTab:8:j_id574" colspan="1" rowspan="1"><span id="j_id135:processoDocumentoGridTab:8:j_id588"><a href="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?idBin=223207504&amp;numeroDocumento=1000d6e3ead3d405e3755f7c583a9d29909287a3&amp;idProcessoDocumento=228540035&amp;actionMethod=ConsultaPublica%2FDetalheProcessoConsultaPublica%2FlistView.xhtml%3AprocessoDocumentoBinHome.setDownloadInstance%28row%29" id="j_id135:processoDocumentoGridTab:8:j_id588:j_id601" target="idPdfAc&oacute;rd&atilde;o (VOTO-EMENTA E AC&Oacute;RD&Atilde;O)" onclick="openPopUp('idPdfAc&oacute;rd&atilde;o (VOTO-EMENTA E AC&Oacute;RD&Atilde;O)', 'about:blank')" title=" (338,36 Kb)" class="btn btn-default btn-sm">
+		
+		<i class="fa fa-file-pdf-o"></i>05/03/2021 12:03:23 - VOTO-EMENTA E AC&Oacute;RD&Atilde;O (Ac&oacute;rd&atilde;o)</a></span></td><td class="rich-table-cell " id="j_id135:processoDocumentoGridTab:8:j_id610" colspan="1" rowspan="1"><span id="j_id135:processoDocumentoGridTab:8:j_id624">
+		
+		<script type="text/javascript">
+			function abrirPopUp(){
+				openPopUp('comprovante', '');
+			}
+			function abrirPopUpPeticao(){
+				openPopUp('comprovantePeticaoInicial', '');
+			}
+		</script><form id="j_id135:processoDocumentoGridTab:8:j_id624:j_id626" name="j_id135:processoDocumentoGridTab:8:j_id624:j_id626" method="post" action="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam">
+			<div align="center"><div id="j_id135:processoDocumentoGridTab:8:j_id624:j_id626:linksSemCertidao"><a class="btn btn-default btn-sm" href="#" id="j_id135:processoDocumentoGridTab:8:j_id624:j_id626:j_id628" name="j_id135:processoDocumentoGridTab:8:j_id624:j_id626:j_id628" onclick="openPopUp('228540035popUpComprovante', '/consultapublica/Processo/reportReciboPDF.seam?idBin=223207504&amp;idProcessoDoc=228540035&amp;idProcessoTrf=2035144');;A4J.AJAX.Submit('j_id135:processoDocumentoGridTab:8:j_id624:j_id626',event,{'similarityGroupingId':'j_id135:processoDocumentoGridTab:8:j_id624:j_id626:j_id628','containerId':'j_id135:j_id553','parameters':{'j_id135:processoDocumentoGridTab:8:j_id624:j_id626:j_id628':'j_id135:processoDocumentoGridTab:8:j_id624:j_id626:j_id628','ajaxSingle':'j_id135:processoDocumentoGridTab:8:j_id624:j_id626:j_id628'} } );return false;" target="228540035popUpComprovante" title="Visualizar comprovante de protocolo">
+						<i class="fa fa-external-link"></i>  
+						<span class="sr-only">Visualizar documentos</span></a></div>
+			</div><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:8:j_id624:j_id626" value="j_id135:processoDocumentoGridTab:8:j_id624:j_id626" /><input type="hidden" autocomplete="off" name="autoScroll" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:8:j_id624:j_id626:_link_hidden_" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:8:j_id624:j_id626:j_idcl" value="" /><script type="text/javascript">function clear_j_id135_3AprocessoDocumentoGridTab_3A8_3Aj_id624_3Aj_id626() {
+_clearJSFFormParameters('j_id135:processoDocumentoGridTab:8:j_id624:j_id626','',['j_id135:processoDocumentoGridTab:8:j_id624:j_id626:_link_hidden_','j_id135:processoDocumentoGridTab:8:j_id624:j_id626:j_idcl']);
+}
+function clearFormHiddenParams_j_id135_3AprocessoDocumentoGridTab_3A8_3Aj_id624_3Aj_id626(){clear_j_id135_3AprocessoDocumentoGridTab_3A8_3Aj_id624_3Aj_id626();}
+function clearFormHiddenParams_j_id135_processoDocumentoGridTab_8_j_id624_j_id626(){clear_j_id135_3AprocessoDocumentoGridTab_3A8_3Aj_id624_3Aj_id626();}
+clear_j_id135_3AprocessoDocumentoGridTab_3A8_3Aj_id624_3Aj_id626();</script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" /></form></span></td></tr><tr class="rich-table-row "><td class="rich-table-cell " id="j_id135:processoDocumentoGridTab:9:j_id574" colspan="1" rowspan="1"><span id="j_id135:processoDocumentoGridTab:9:j_id588"><a href="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?idBin=223207492&amp;numeroDocumento=6ffe84016706ff3f7655434f62fdef7e4cb28df5&amp;idProcessoDocumento=228540023&amp;actionMethod=ConsultaPublica%2FDetalheProcessoConsultaPublica%2FlistView.xhtml%3AprocessoDocumentoBinHome.setDownloadInstance%28row%29" id="j_id135:processoDocumentoGridTab:9:j_id588:j_id601" target="idPdfAto ordinat&oacute;rio (ATO ORDINAT&Oacute;RIO)" onclick="openPopUp('idPdfAto ordinat&oacute;rio (ATO ORDINAT&Oacute;RIO)', 'about:blank')" title=" (563,81 Kb)" class="btn btn-default btn-sm">
+		
+		<i class="fa fa-file-pdf-o"></i>28/11/2021 08:37:35 - ATO ORDINAT&Oacute;RIO (Ato ordinat&oacute;rio)</a></span></td><td class="rich-table-cell " id="j_id135:processoDocumentoGridTab:9:j_id610" colspan="1" rowspan="1"><span id="j_id135:processoDocumentoGridTab:9:j_id624">
+		
+		<script type="text/javascript">
+			function abrirPopUp(){
+				openPopUp('comprovante', '');
+			}
+			function abrirPopUpPeticao(){
+				openPopUp('comprovantePeticaoInicial', '');
+			}
+		</script><form id="j_id135:processoDocumentoGridTab:9:j_id624:j_id626" name="j_id135:processoDocumentoGridTab:9:j_id624:j_id626" method="post" action="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam">
+			<div align="center"><div id="j_id135:processoDocumentoGridTab:9:j_id624:j_id626:linksSemCertidao"><a class="btn btn-default btn-sm" href="#" id="j_id135:processoDocumentoGridTab:9:j_id624:j_id626:j_id628" name="j_id135:processoDocumentoGridTab:9:j_id624:j_id626:j_id628" onclick="openPopUp('228540023popUpComprovante', '/consultapublica/Processo/reportReciboPDF.seam?idBin=223207492&amp;idProcessoDoc=228540023&amp;idProcessoTrf=2035144');;A4J.AJAX.Submit('j_id135:processoDocumentoGridTab:9:j_id624:j_id626',event,{'similarityGroupingId':'j_id135:processoDocumentoGridTab:9:j_id624:j_id626:j_id628','containerId':'j_id135:j_id553','parameters':{'j_id135:processoDocumentoGridTab:9:j_id624:j_id626:j_id628':'j_id135:processoDocumentoGridTab:9:j_id624:j_id626:j_id628','ajaxSingle':'j_id135:processoDocumentoGridTab:9:j_id624:j_id626:j_id628'} } );return false;" target="228540023popUpComprovante" title="Visualizar comprovante de protocolo">
+						<i class="fa fa-external-link"></i>  
+						<span class="sr-only">Visualizar documentos</span></a></div>
+			</div><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:9:j_id624:j_id626" value="j_id135:processoDocumentoGridTab:9:j_id624:j_id626" /><input type="hidden" autocomplete="off" name="autoScroll" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:9:j_id624:j_id626:_link_hidden_" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:9:j_id624:j_id626:j_idcl" value="" /><script type="text/javascript">function clear_j_id135_3AprocessoDocumentoGridTab_3A9_3Aj_id624_3Aj_id626() {
+_clearJSFFormParameters('j_id135:processoDocumentoGridTab:9:j_id624:j_id626','',['j_id135:processoDocumentoGridTab:9:j_id624:j_id626:_link_hidden_','j_id135:processoDocumentoGridTab:9:j_id624:j_id626:j_idcl']);
+}
+function clearFormHiddenParams_j_id135_3AprocessoDocumentoGridTab_3A9_3Aj_id624_3Aj_id626(){clear_j_id135_3AprocessoDocumentoGridTab_3A9_3Aj_id624_3Aj_id626();}
+function clearFormHiddenParams_j_id135_processoDocumentoGridTab_9_j_id624_j_id626(){clear_j_id135_3AprocessoDocumentoGridTab_3A9_3Aj_id624_3Aj_id626();}
+clear_j_id135_3AprocessoDocumentoGridTab_3A9_3Aj_id624_3Aj_id626();</script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" /></form></span></td></tr><tr class="rich-table-row "><td class="rich-table-cell " id="j_id135:processoDocumentoGridTab:10:j_id574" colspan="1" rowspan="1"><span id="j_id135:processoDocumentoGridTab:10:j_id588"><a href="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?idBin=223207486&amp;numeroDocumento=8982bc7ef58cb4198f9291e15cb7a0873e87c72e&amp;idProcessoDocumento=228540017&amp;actionMethod=ConsultaPublica%2FDetalheProcessoConsultaPublica%2FlistView.xhtml%3AprocessoDocumentoBinHome.setDownloadInstance%28row%29" id="j_id135:processoDocumentoGridTab:10:j_id588:j_id601" target="idPdfDecis&atilde;o (DECIS&Atilde;O)" onclick="openPopUp('idPdfDecis&atilde;o (DECIS&Atilde;O)', 'about:blank')" title=" (125,68 Kb)" class="btn btn-default btn-sm">
+		
+		<i class="fa fa-file-pdf-o"></i>20/05/2022 12:27:08 - DECIS&Atilde;O (Decis&atilde;o)</a></span></td><td class="rich-table-cell " id="j_id135:processoDocumentoGridTab:10:j_id610" colspan="1" rowspan="1"><span id="j_id135:processoDocumentoGridTab:10:j_id624">
+		
+		<script type="text/javascript">
+			function abrirPopUp(){
+				openPopUp('comprovante', '');
+			}
+			function abrirPopUpPeticao(){
+				openPopUp('comprovantePeticaoInicial', '');
+			}
+		</script><form id="j_id135:processoDocumentoGridTab:10:j_id624:j_id626" name="j_id135:processoDocumentoGridTab:10:j_id624:j_id626" method="post" action="/consultapublica/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam">
+			<div align="center"><div id="j_id135:processoDocumentoGridTab:10:j_id624:j_id626:linksSemCertidao"><a class="btn btn-default btn-sm" href="#" id="j_id135:processoDocumentoGridTab:10:j_id624:j_id626:j_id628" name="j_id135:processoDocumentoGridTab:10:j_id624:j_id626:j_id628" onclick="openPopUp('228540017popUpComprovante', '/consultapublica/Processo/reportReciboPDF.seam?idBin=223207486&amp;idProcessoDoc=228540017&amp;idProcessoTrf=2035144');;A4J.AJAX.Submit('j_id135:processoDocumentoGridTab:10:j_id624:j_id626',event,{'similarityGroupingId':'j_id135:processoDocumentoGridTab:10:j_id624:j_id626:j_id628','containerId':'j_id135:j_id553','parameters':{'ajaxSingle':'j_id135:processoDocumentoGridTab:10:j_id624:j_id626:j_id628','j_id135:processoDocumentoGridTab:10:j_id624:j_id626:j_id628':'j_id135:processoDocumentoGridTab:10:j_id624:j_id626:j_id628'} } );return false;" target="228540017popUpComprovante" title="Visualizar comprovante de protocolo">
+						<i class="fa fa-external-link"></i>  
+						<span class="sr-only">Visualizar documentos</span></a></div>
+			</div><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:10:j_id624:j_id626" value="j_id135:processoDocumentoGridTab:10:j_id624:j_id626" /><input type="hidden" autocomplete="off" name="autoScroll" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:10:j_id624:j_id626:_link_hidden_" value="" /><input type="hidden" autocomplete="off" name="j_id135:processoDocumentoGridTab:10:j_id624:j_id626:j_idcl" value="" /><script type="text/javascript">function clear_j_id135_3AprocessoDocumentoGridTab_3A10_3Aj_id624_3Aj_id626() {
+_clearJSFFormParameters('j_id135:processoDocumentoGridTab:10:j_id624:j_id626','',['j_id135:processoDocumentoGridTab:10:j_id624:j_id626:_link_hidden_','j_id135:processoDocumentoGridTab:10:j_id624:j_id626:j_idcl']);
+}
+function clearFormHiddenParams_j_id135_3AprocessoDocumentoGridTab_3A10_3Aj_id624_3Aj_id626(){clear_j_id135_3AprocessoDocumentoGridTab_3A10_3Aj_id624_3Aj_id626();}
+function clearFormHiddenParams_j_id135_processoDocumentoGridTab_10_j_id624_j_id626(){clear_j_id135_3AprocessoDocumentoGridTab_3A10_3Aj_id624_3Aj_id626();}
+clear_j_id135_3AprocessoDocumentoGridTab_3A10_3Aj_id624_3Aj_id626();</script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" /></form></span></td></tr></tbody></table><span class="pull-right text-muted">11 resultados encontrados</span></div></div></div><script id="j_id135:j_id645" type="text/javascript">//<![CDATA[
+		fRender=function(){A4J.AJAX.Submit('j_id135',null,{'similarityGroupingId':'j_id135:j_id645','parameters':{'j_id135:j_id645':'j_id135:j_id645'} } )};
+		//]]></script>
+			<div class="col-sm-12 text-center"><input class="btn btn-primary" id="j_id135:j_id647" name="j_id135:j_id647" onclick="openPopUp('comprovante', 'reportPDF.seam?idProcessoTrf=2035144');A4J.AJAX.Submit('j_id135',event,{'similarityGroupingId':'j_id135:j_id647','parameters':{'j_id135:j_id647':'j_id135:j_id647'} } );return false;" value="Imprimir" type="button" />
+		   	</div>	
+		   	
+		   	<script type="text/javascript">
+				function fRender() {
+					location = location.href;
+				}
+				jQuery("#processoDocumentoGridTabDiv tr:has(td:contains('Não Validado'))").css("background-color", "#DDDDDD");
+				jQuery("#processoDocumentoGridTabDiv tr:has(.inativo)").css("background-color", "#dddddd").addClass("inativo");		
+			</script><input type="hidden" autocomplete="off" name="j_id135" value="j_id135" /><input type="hidden" autocomplete="off" name="autoScroll" value="" /><input type="hidden" autocomplete="off" name="j_id135:_link_hidden_" value="" /><input type="hidden" autocomplete="off" name="j_id135:j_idcl" value="" /><script type="text/javascript">function clear_j_id135() {
+_clearJSFFormParameters('j_id135','',['j_id135:_link_hidden_','j_id135:j_idcl']);
+}
+function clearFormHiddenParams_j_id135(){clear_j_id135();}
+function clearFormHiddenParams_j_id135(){clear_j_id135();}
+clear_j_id135();</script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id2" autocomplete="off" /></form></td></tr></table></td></tr></tbody></table>
+		</div>	
+	</div></div>
+			</div></div>
+
+	<style>
+			.index-topo {
+				z-index: 2000 !important;
+			}
+	</style><div id="mpPJeOfficeIndisponivel" style="display: none;"><input autocomplete="off" id="mpPJeOfficeIndisponivelOpenedState" name="mpPJeOfficeIndisponivelOpenedState" type="hidden" /><div class="rich-modalpanel index-topo" id="mpPJeOfficeIndisponivelContainer" style="position: absolute; display: none; z-index: 100; background-color: inherit;"><div class="rich-mpnl-mask-div-opaque rich-mpnl-mask-div" id="mpPJeOfficeIndisponivelDiv" style="z-index: -1;"><button class="rich-mpnl-button" id="mpPJeOfficeIndisponivelFirstHref"></button></div><div class="rich-mpnl-panel"><div class="rich-mp-container" id="mpPJeOfficeIndisponivelCDiv" style="position: absolute; left: 0px; top: 0px; z-index: 9;"><div class="rich-mpnl-shadow" id="mpPJeOfficeIndisponivelShadowDiv"></div><div class="rich-mpnl-ovf-hd rich-mpnl-trim rich-mpnl-content" id="mpPJeOfficeIndisponivelContentDiv"><div class="rich-mpnl-text rich-mpnl-controls ">
+				<span class="btn-fechar" onclick="Richfaces.hideModalPanel('mpPJeOfficeIndisponivel')" title="Fechar"><i class="icon-fechar"></i></span></div><table border="0" cellpadding="0" cellspacing="0" class="rich-mp-content-table" id="mpPJeOfficeIndisponivelContentTable" style="height: 100%; width: 100%;"><tr style="height: 1%;"><td class="rich-mpnl-header-cell"><div class="rich-mpnl-text rich-mpnl-header " id="mpPJeOfficeIndisponivelHeader" style="white-space: nowrap;">PJeOffice Indispon&iacute;vel</div></td></tr><tr style="height: 99%"><td class="rich-mpnl-body" valign="top">
+								
+		<h3>O aplicativo PJeOffice n&atilde;o est&aacute; dispon&iacute;vel!</h3></td></tr></table></div><div class="rich-mpnl-resizer" id="mpPJeOfficeIndisponivelResizerN" style="width: 40px; height: 4px;"></div><div class="rich-mpnl-resizer" id="mpPJeOfficeIndisponivelResizerE" style="height: 40px; width: 4px;"></div><div class="rich-mpnl-resizer" id="mpPJeOfficeIndisponivelResizerS" style="width: 40px; height: 4px;"></div><div class="rich-mpnl-resizer" id="mpPJeOfficeIndisponivelResizerW" style="height: 40px; width: 4px;"></div><div class="rich-mpnl-resizer" id="mpPJeOfficeIndisponivelResizerNWU" style="width: 40px; height: 4px;"></div><div class="rich-mpnl-resizer" id="mpPJeOfficeIndisponivelResizerNEU" style="height: 40px; width: 4px;"></div><div class="rich-mpnl-resizer" id="mpPJeOfficeIndisponivelResizerNEL" style="width: 40px; height: 4px;"></div><div class="rich-mpnl-resizer" id="mpPJeOfficeIndisponivelResizerSEU" style="height: 40px; width: 4px;"></div><div class="rich-mpnl-resizer" id="mpPJeOfficeIndisponivelResizerSEL" style="width: 40px; height: 4px;"></div><div class="rich-mpnl-resizer" id="mpPJeOfficeIndisponivelResizerSWL" style="height: 40px; width: 4px;"></div><div class="rich-mpnl-resizer" id="mpPJeOfficeIndisponivelResizerSWU" style="width: 40px; height: 4px;"></div><div class="rich-mpnl-resizer" id="mpPJeOfficeIndisponivelResizerNWL" style="height: 40px; width: 4px;"></div></div></div><div class="rich-mpnl-mask-div rich-mpnl-mask-div-transparent" id="mpPJeOfficeIndisponivelCursorDiv" style="z-index: -200;"><button class="rich-mpnl-button" id="mpPJeOfficeIndisponivelLastHref"></button></div><script type="text/javascript">new ModalPanel('mpPJeOfficeIndisponivel',
+				{
+					width: 400,
+					height: 190,
+
+					minWidth: -1,
+					minHeight: -1,
+
+					resizeable: true,
+					moveable: true,
+
+					left: "auto",
+					top: "auto",
+
+					zindex: 100,onresize: '',onmove: '',onshow: '',onhide: '',onbeforeshow: '',onbeforehide: '',
+					domElementAttachment: "",				
+					keepVisualState: false,
+					showWhenRendered: false,
+					selectBehavior: "disable",
+
+					autosized: false,
+					overlapEmbedObjects: false});</script></div><script type="text/javascript"></script></div><div id="mpProgresso" style="display: none;"><input autocomplete="off" id="mpProgressoOpenedState" name="mpProgressoOpenedState" type="hidden" /><div class="rich-modalpanel modal-small" id="mpProgressoContainer" style="position: absolute; display: none; z-index: 100; background-color: inherit;"><div class="rich-mpnl-mask-div-opaque rich-mpnl-mask-div" id="mpProgressoDiv" style="z-index: -1;"><button class="rich-mpnl-button" id="mpProgressoFirstHref"></button></div><div class="rich-mpnl-panel"><div class="rich-mp-container" id="mpProgressoCDiv" style="position: absolute; left: 0px; top: 0px; z-index: 9;"><div class="rich-mpnl-shadow" id="mpProgressoShadowDiv"></div><div class="rich-mpnl-ovf-hd rich-mpnl-trim rich-mpnl-content" id="mpProgressoContentDiv"><table border="0" cellpadding="0" cellspacing="0" class="rich-mp-content-table" id="mpProgressoContentTable" style="height: 100%; width: 100%;"><tr style="height: 99%"><td class="rich-mpnl-body" valign="top">			
+		<div class="media">
+			<div class="media-left media-middle">
+				<div class="svg-preloader">
+					<svg version="1.1" height="30" width="30" viewbox="0 0 75 75"><circle cx="37.5" cy="37.5" r="33.5" stroke-width="8"></circle></svg>
+				</div>
+			</div>
+			<div class="media-body">
+				<h6>Por favor aguarde</h6>
+			</div>
+		</div></td></tr></table></div></div></div><div class="rich-mpnl-mask-div rich-mpnl-mask-div-transparent" id="mpProgressoCursorDiv" style="z-index: -200;"><button class="rich-mpnl-button" id="mpProgressoLastHref"></button></div><script type="text/javascript">new ModalPanel('mpProgresso',
+				{
+					width: -1,
+					height: 110,
+
+					minWidth: -1,
+					minHeight: -1,
+
+					resizeable: false,
+					moveable: true,
+
+					left: "auto",
+					top: "auto",
+
+					zindex: 100,onresize: '',onmove: '',onshow: '',onhide: '',onbeforeshow: '',onbeforehide: '',
+					domElementAttachment: "",				
+					keepVisualState: false,
+					showWhenRendered: false,
+					selectBehavior: "disable",
+
+					autosized: false,
+					overlapEmbedObjects: false});</script></div><script type="text/javascript"></script></div>
+	
+	<script type="text/javascript">
+		function showMpProgresso() {
+			Richfaces.showModalPanel('mpProgresso');
+		}
+		function hideMpProgresso() {
+			Richfaces.hideModalPanel('mpProgresso');
+		}
+	</script>
+	</body>
+</html>
