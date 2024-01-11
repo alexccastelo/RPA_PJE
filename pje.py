@@ -99,16 +99,5 @@ def consulta_processos():
     )
 
 
-# def csv_to_excel(csv_file_path, excel_file_path):
-#    df = pd.read_csv(csv_file_path)
-#    with pd.ExcelWriter(excel_file_path, engine="openpyxl") as writer:
-#        df.to_excel(writer, startrow=0, index=False)
-
-
-# Exemplo de chamada da função:
-#csv_file = "processos.csv"
-#excel_file = "processos1.xlsx"
-#csv_to_excel(csv_file, excel_file)
-
 if __name__ == "__main__":
     app.run(debug=True)
